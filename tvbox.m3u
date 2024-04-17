@@ -57,7 +57,10 @@ video://https://www.4gtv.tv/channel/4gtv-live620?set=1&ch=186
 video://https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=28
 #EXTINF:-1,tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="四季TV",ROCK Action
 video://https://www.4gtv.tv/channel/4gtv-live138?set=1&ch=180
-
+#EXTINF:-1,tvg-id="CHC 家庭影院" tvg-name="CHC 家庭影院" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC2.png" group-title="四季TV",CHC 家庭影院
+video://https://m.miguvideo.com/m/liveDetail/?sharefrom=miguvideoapp&contId=64436871420240418001&channelid=10010001004&sysfrom=ios&appfrom=miguvideo&pwId=3d84731d495747e7a4616b0b9fdb6830
+#EXTINF:-1,tvg-id="CHC 高清电影" tvg-name="CHC 高清电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC1.png" group-title="四季TV",CHC 高清电影
+video://https://m.miguvideo.com/mgs/msite/prd/liveDetail.html?sharefrom=miguvideoapp&contId=64436871420240418001&channelid=10010001004&sysfrom=ios&appfrom=miguvideo&pwId=94645c32f80041e089db6cc8f69b77ff
 
 
 
