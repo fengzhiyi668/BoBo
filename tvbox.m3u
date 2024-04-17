@@ -7,3 +7,7 @@ video://https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
 video://https://www.4gtv.tv/channel/4gtv-live120?set=4&ch=237
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="某GTV港澳",龙华电影台
 video://https://www.4gtv.tv/channel/litv-longturn03?set=1&ch=121
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="某GTV港澳",动漫
+video://https://hamivideo.hinet.net/channel/OTT_LIVE_0000002083.do
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="某GTV港澳",ifun
+video://https://hamivideo.hinet.net/channel/OTT_LIVE_0000001906.do
