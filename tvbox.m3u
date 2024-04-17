@@ -21,6 +21,8 @@ video://https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21
 video://https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
 #EXTINF:-1,tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Global-Trekker_logo_primary.png" group-title="四季TV",Global Trekker
 video://https://www.4gtv.tv/channel/4gtv-live112?set=1&ch=252
+#EXTINF:-1,tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="四季TV",龍華電影台
+video://https://www.4gtv.tv/channel/litv-longturn03?set=1&ch=121
 
 
 
