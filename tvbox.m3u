@@ -55,6 +55,8 @@ video://https://www.4gtv.tv/channel/litv-longturn18?set=1&ch=23
 video://https://www.4gtv.tv/channel/4gtv-live620?set=1&ch=186
 #EXTINF:-1,tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV5.png" group-title="四季TV",龍華日韓台
 video://https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=28
+#EXTINF:-1,tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="四季TV",ROCK Action
+video://https://www.4gtv.tv/channel/4gtv-live138?set=1&ch=180
 
 
 
