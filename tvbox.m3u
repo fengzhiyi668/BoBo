@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="X视电影台" tvg-name="X视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="星视界港澳",X视电影台
+video://https://www.histar.tv/live/tvb-xinghe
+#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.112114.xyz/logo/美亚电影台.png" group-title="港X直播港澳",美亚电影台
+video://https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="某GTV港澳",TVBSX剧台
+video://https://www.4gtv.tv/channel/4gtv-live120?set=4&ch=237
