@@ -45,12 +45,16 @@ video://https://www.4gtv.tv/channel/4gtv-live208?set=1&ch=139
 video://https://www.4gtv.tv/channel/4gtv-live026?set=1&ch=214
 #EXTINF:-1,tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jy2.png" group-title="四季TV",靖洋戲劇台
 video://https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118
-#EXTINF:-1,tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="四季TV",龍華電影台
-video://https://www.4gtv.tv/channel/litv-longturn03?set=1&ch=121
-
-
-
-
+#EXTINF:-1,tvg-id="Globetrotter" tvg-name="Globetrotter" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile-1.png" group-title="四季TV",Globetrotter
+video://https://https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=288
+#EXTINF:-1,tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="四季TV",愛爾達生活旅遊台
+video://https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237
+#EXTINF:-1,tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV4.png" group-title="四季TV",龍華戲劇台
+video://https://www.4gtv.tv/channel/litv-longturn18?set=1&ch=23
+#EXTINF:-1,tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live620_mobile.png" group-title="四季TV",HITS頻道
+video://https://www.4gtv.tv/channel/4gtv-live620?set=1&ch=186
+#EXTINF:-1,tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV5.png" group-title="四季TV",龍華日韓台
+video://https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=28
 
 
 
