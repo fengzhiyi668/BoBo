@@ -1,13 +1,67 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="X视电影台" tvg-name="X视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="星视界港澳",X视电影台
-video://https://www.mytvsuper.com/tc/live/82
-#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.112114.xyz/logo/美亚电影台.png" group-title="港X直播港澳",美亚电影台
-video://https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="某GTV港澳",TVBSX剧台
-video://https://www.4gtv.tv/channel/4gtv-live120?set=4&ch=237
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="某GTV港澳",龙华电影台
-video://https://www.4gtv.tv/channel/litv-longturn03?set=1&ch=121
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="某GTV港澳",动漫
-video://https://hamivideo.hinet.net/channel/OTT_LIVE_0000002083.do
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="某GTV港澳",ifun
-video://https://hamivideo.hinet.net/channel/OTT_LIVE_0000001906.do
+#EXTINF:-1,tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV2.png" group-title="四季TV",民視第一台
+video://https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
+#EXTINF:-1,tvg-id="民視" tvg-name="民視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV.png" group-title="四季TV",民視
+video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
+#EXTINF:-1,tvg-id="中視" tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV.png" group-title="四季TV",中視
+video://https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
+#EXTINF:-1,tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV2.png" group-title="四季TV",中視經典台
+video://https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=124
+#EXTINF:-1,tvg-id="華視" tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS.png" group-title="四季TV",華視
+video://https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
+#EXTINF:-1,tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV3.png" group-title="四季TV",八大綜藝台
+video://https://www.4gtv.tv/channel/4gtv-4gtv039?set=1&ch=114
+#EXTINF:-1,tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS3.png" group-title="四季TV",TVBS精采台
+video://https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227
+#EXTINF:-1,tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA3.png" group-title="四季TV",愛爾達娛樂台
+video://https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227
+#EXTINF:-1,tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV1.png" group-title="四季TV",靖天綜合台
+video://https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21
+#EXTINF:-1,tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV6.png" group-title="四季TV",靖天日本台
+video://https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
+#EXTINF:-1,tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Global-Trekker_logo_primary.png" group-title="四季TV",Global Trekker
+video://https://www.4gtv.tv/channel/4gtv-live112?set=1&ch=252
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
