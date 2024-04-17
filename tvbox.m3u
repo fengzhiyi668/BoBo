@@ -23,18 +23,30 @@ video://https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
 video://https://www.4gtv.tv/channel/4gtv-live112?set=1&ch=252
 #EXTINF:-1,tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="四季TV",龍華電影台
 video://https://www.4gtv.tv/channel/litv-longturn03?set=1&ch=121
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,tvg-id="Nick Jr. 兒童頻道" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nickjr.png" group-title="四季TV",Nick Jr. 兒童頻道
+video://https://www.4gtv.tv/channel/4gtv-live032?set=1&ch=219
+#EXTINF:-1,tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nickelodeon.png" group-title="四季TV",尼克兒童頻道
+video://https://www.4gtv.tv/channel/4gtv-live105?set=1&ch=185
+#EXTINF:-1,tvg-id="夢工廠動畫" tvg-name="夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="四季TV",夢工廠動畫
+video://https://www.4gtv.tv/channel/4gtv-live017?set=1&ch=282
+#EXTINF:-1,tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV7.png" group-title="四季TV",靖洋卡通Nice Bingo
+video://https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
+#EXTINF:-1,tvg-id="i-Fun動漫台" tvg-name="i-Fun動漫台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ifun1.png" group-title="四季TV",i-Fun動漫台
+video://https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
+#EXTINF:-1,tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo1.png" group-title="四季TV",MOMO親子台
+video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
+#EXTINF:-1,tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live080_mobile.png" group-title="四季TV",ROCK Entertainment
+video://https://www.4gtv.tv/channel/4gtv-live080?set=1&ch=275
+#EXTINF:-1,tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live025_mobile.png" group-title="四季TV",MTV Live HD 
+video://https://www.4gtv.tv/channel/4gtv-live025?set=1&ch=213
+#EXTINF:-1,tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live208_mobile.png" group-title="四季TV",Love Nature
+video://https://www.4gtv.tv/channel/4gtv-live208?set=1&ch=139
+#EXTINF:-1,tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png" group-title="四季TV",History 歷史頻道
+video://https://www.4gtv.tv/channel/4gtv-live026?set=1&ch=214
+#EXTINF:-1,tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jy2.png" group-title="四季TV",靖洋戲劇台
+video://https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118
+#EXTINF:-1,tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="四季TV",龍華電影台
+video://https://www.4gtv.tv/channel/litv-longturn03?set=1&ch=121
 
 
 
