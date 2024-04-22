@@ -36,30 +36,43 @@ http://176868.cloud/0d6d78def945cdd8c1dcc882b8158845/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/25b36a041d82a5ad1002d20f66af8360/ce0899ce5196a8e421a6ed74d2ef6d7c/8f5c05c7234f2af3f10e45322f8e7e66/index.m3u8
 #EXTINF:-1,tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/bada%20zongyi.png" group-title="台湾",八大綜藝台
 http://176868.cloud/40b56618b2b3004aa19b5470269e8f33/ce0899ce5196a8e421a6ed74d2ef6d7c/cd32f422ce00c728010721d230e99111/index.m3u8
-
+#EXTINF:-1,tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="台湾",緯來體育台
+http://176868.cloud/00c4571c706a634fdec570cbeb2f3b19/ce0899ce5196a8e421a6ed74d2ef6d7c/7596c5d18258779cc2476e162fc226cf/index.m3u8
+#EXTINF:-1,tvg-id="緯來育樂台" tvg-name="緯來育樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland6.png" group-title="台湾",緯來育樂台
+http://176868.cloud/412df53cb4bfab0272ad99f705cc060e/ce0899ce5196a8e421a6ed74d2ef6d7c/a7178279eb9b4c2208a12244cb9eb1cb/index.m3u8
+#EXTINF:-1,tvg-id="東風37" tvg-name="東風37" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfeng.png" group-title="台湾",東風37
+http://176868.cloud/abdcf76645f96fbf3be5e4ecc24ae853/ce0899ce5196a8e421a6ed74d2ef6d7c/6296e38a415a39df2da1b04da0a6b9c9/index.m3u8
+#EXTINF:-1,tvg-id="緯來綜合台" tvg-name="緯來綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland1.png" group-title="台湾",緯來綜合台
+http://176868.cloud/759085b37f9d1540ac7296a8f6e3294a/ce0899ce5196a8e421a6ed74d2ef6d7c/d8af86d610751cd05c062c40fd4112c1/index.m3u8
+#EXTINF:-1,tvg-id="緯來戲劇台" tvg-name="緯來戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland3.png" group-title="台湾",緯來戲劇台
+http://176868.cloud/381169cc8b67643c373bdc4be75ebb18/ce0899ce5196a8e421a6ed74d2ef6d7c/d495f654245555cb883ad3e16e947f43/index.m3u8
+#EXTINF:-1,tvg-id="緯來日本台" tvg-name="緯來日本台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland5.png" group-title="台湾",緯來日本台
+http://176868.cloud/34b86a45ec0253cae1744ee448c30854/ce0899ce5196a8e421a6ed74d2ef6d7c/5550ed499f41d608dd076d0b0e48015e/index.m3u8
+#EXTINF:-1,tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland2.png" group-title="台湾",緯來電影台
+http://176868.cloud/025d76ba512536a7731344af7f2a4567/ce0899ce5196a8e421a6ed74d2ef6d7c/d8b3cfd683df1c20d3187bb7b4932030/index.m3u8
+#EXTINF:-1,tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/animalplanet.png" group-title="台湾",動物星球
+http://176868.cloud/9f24e83578e2ffd1f4516ad3fc556d2e/ce0899ce5196a8e421a6ed74d2ef6d7c/affac3a893ea76663c6c10a2a8ae4b4c/index.m3u8
+#EXTINF:-1,tvg-id="TLC旅遊生活" tvg-name="TLC旅遊生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TLCTV.png" group-title="台湾",TLC旅遊生活
+http://176868.cloud/b1783f6c3ee2910040b225077f5e0c35/ce0899ce5196a8e421a6ed74d2ef6d7c/206a64db121d01da6a9982c5e30012bd/index.m3u8
+#EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Animax.png" group-title="台湾",ANIMAX
+http://176868.cloud/79a12959751788a3ad587482af8fc319/ce0899ce5196a8e421a6ed74d2ef6d7c/831ccae7ebca870636a2f888b3148b22/index.m3u8
+#EXTINF:-1,tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo1.png" group-title="台湾",MOMO親子台
+http://176868.cloud/34c792dd3d671e92b617fea21a8e622a/ce0899ce5196a8e421a6ed74d2ef6d7c/623c3788911339fbc3642efd7015a001/index.m3u8
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png" group-title="台湾",HBO
+http://176868.cloud/a300d19c5c8e029e52eed1686798acbb/ce0899ce5196a8e421a6ed74d2ef6d7c/aa4b07461e9229c6671661a0269bc078/index.m3u8
+#EXTINF:-1,tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO2.png" group-title="台湾",HBO Hits
+http://176868.cloud/fb3f57e43c8ea43ef7212e7834f9117e/ce0899ce5196a8e421a6ed74d2ef6d7c/8dadaf803ef4262ea03b67edb3bffa7b/index.m3u8
+#EXTINF:-1,tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="台湾",HBO Family
+http://176868.cloud/cfc6c7625834a160ba348a66d049ba14/ce0899ce5196a8e421a6ed74d2ef6d7c/620c7020f97c0a00aba4398427b79075/index.m3u8
+#EXTINF:-1,tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO3.png" group-title="台湾",HBO Signature
+http://176868.cloud/aecc7c73761be0072c930f079880b03c/ce0899ce5196a8e421a6ed74d2ef6d7c/0f2f178506cbb0d478d72d6e562eb801/index.m3u8
+#EXTINF:-1,tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Cinemax.png" group-title="台湾",CINEMAX
+http://176868.cloud/50786ec032abb45ec08cd43b447b4c7c/ce0899ce5196a8e421a6ed74d2ef6d7c/b8bdd6dab9a126dacc2430c596825824/index.m3u8
 
  
-http://176868.cloud/00c4571c706a634fdec570cbeb2f3b19/ce0899ce5196a8e421a6ed74d2ef6d7c/7596c5d18258779cc2476e162fc226cf/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 22 緯來體育台 
-http://176868.cloud/412df53cb4bfab0272ad99f705cc060e/ce0899ce5196a8e421a6ed74d2ef6d7c/a7178279eb9b4c2208a12244cb9eb1cb/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 23 緯來育樂台 
-http://176868.cloud/abdcf76645f96fbf3be5e4ecc24ae853/ce0899ce5196a8e421a6ed74d2ef6d7c/6296e38a415a39df2da1b04da0a6b9c9/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 24 東風37 
-http://176868.cloud/759085b37f9d1540ac7296a8f6e3294a/ce0899ce5196a8e421a6ed74d2ef6d7c/d8af86d610751cd05c062c40fd4112c1/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 25 緯來綜合台 
-http://176868.cloud/381169cc8b67643c373bdc4be75ebb18/ce0899ce5196a8e421a6ed74d2ef6d7c/d495f654245555cb883ad3e16e947f43/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 26 緯來戲劇台 
-http://176868.cloud/34b86a45ec0253cae1744ee448c30854/ce0899ce5196a8e421a6ed74d2ef6d7c/5550ed499f41d608dd076d0b0e48015e/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 27 緯來日本台 
-http://176868.cloud/025d76ba512536a7731344af7f2a4567/ce0899ce5196a8e421a6ed74d2ef6d7c/d8b3cfd683df1c20d3187bb7b4932030/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 28 緯來電影台
-http://176868.cloud/c90e5fa7d6bde5c2391847543790e9bc/ce0899ce5196a8e421a6ed74d2ef6d7c/f0c0677bab16cfa486f97e7a3a79d501/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 42 台視 HD 
-http://176868.cloud/48c3d5e5adebbfa9c9611493e30a0800/ce0899ce5196a8e421a6ed74d2ef6d7c/50988b5469900e6b522fbc8bdd2d126f/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 43 中視 HD 
-http://176868.cloud/2dce1ed84b4f263c2250af0f9c7a2293/ce0899ce5196a8e421a6ed74d2ef6d7c/d8b97e80609c4eb77369956012655543/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 44 華視CTS HD 
-http://176868.cloud/96cbea28403a220a4b15bf4796c71f55/ce0899ce5196a8e421a6ed74d2ef6d7c/7d24eeb4f7d7f08bfb0b4db85a44be4e/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 45 民視 HD 
-http://176868.cloud/73a8312643530b31b9da80bc273a46a9/ce0899ce5196a8e421a6ed74d2ef6d7c/6c9086730c91e2b57225bd9865a16238/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 46 公視 HD 
-http://176868.cloud/9f24e83578e2ffd1f4516ad3fc556d2e/ce0899ce5196a8e421a6ed74d2ef6d7c/affac3a893ea76663c6c10a2a8ae4b4c/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 30 動物星球 
-http://176868.cloud/b1783f6c3ee2910040b225077f5e0c35/ce0899ce5196a8e421a6ed74d2ef6d7c/206a64db121d01da6a9982c5e30012bd/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 31 TLC旅遊生活 
-http://176868.cloud/79a12959751788a3ad587482af8fc319/ce0899ce5196a8e421a6ed74d2ef6d7c/831ccae7ebca870636a2f888b3148b22/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 32 ANIMAX 
-http://176868.cloud/34c792dd3d671e92b617fea21a8e622a/ce0899ce5196a8e421a6ed74d2ef6d7c/623c3788911339fbc3642efd7015a001/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 33 MOMO親子台 
-http://176868.cloud/a300d19c5c8e029e52eed1686798acbb/ce0899ce5196a8e421a6ed74d2ef6d7c/aa4b07461e9229c6671661a0269bc078/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 34 HBO 
-http://176868.cloud/fb3f57e43c8ea43ef7212e7834f9117e/ce0899ce5196a8e421a6ed74d2ef6d7c/8dadaf803ef4262ea03b67edb3bffa7b/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 35 HBOHits 
-http://176868.cloud/cfc6c7625834a160ba348a66d049ba14/ce0899ce5196a8e421a6ed74d2ef6d7c/620c7020f97c0a00aba4398427b79075/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 36 HBOFamily 
-http://176868.cloud/aecc7c73761be0072c930f079880b03c/ce0899ce5196a8e421a6ed74d2ef6d7c/0f2f178506cbb0d478d72d6e562eb801/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 37 HBOSignature 
-http://176868.cloud/50786ec032abb45ec08cd43b447b4c7c/ce0899ce5196a8e421a6ed74d2ef6d7c/b8bdd6dab9a126dacc2430c596825824/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 38 CINEMAX 
+
+
+
 http://176868.cloud/d52563d4aa9f8f2d76af750049c7743a/ce0899ce5196a8e421a6ed74d2ef6d7c/b4fe34d0307f7c60ec25bb3aed1788df/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 39 AXN 
 http://176868.cloud/27a7201f4150714d7f679837206110f3/ce0899ce5196a8e421a6ed74d2ef6d7c/27f0ff9b0c201213b664405e21c1acde/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 40 探索頻道 
 http://176868.cloud/418b6a324d8ff960ac5070085c7d1299/ce0899ce5196a8e421a6ed74d2ef6d7c/b40e37f4d7e1f0364fcc03abb65a87be/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 66 愛爾達體育1台 
@@ -103,6 +116,14 @@ http://176868.cloud/0495dd4c37fc720026550e20bd39f22c/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/f0932824de0b7688cc77b0174a0bcf9d/ce0899ce5196a8e421a6ed74d2ef6d7c/a12a0e94ebbb8a8d9f4880825b7c4879/index.m3u8 #EXTINF:-1 group-title="TW-IV",117 History 歷史頻道 
 http://176868.cloud/ef3cee7fe03f376d3da4951774b113f2/ce0899ce5196a8e421a6ed74d2ef6d7c/7cd4e818cee95634f2510536dfdc4f85/index.m3u8 #EXTINF:-1 group-title="TW-IV",120 愛爾達生活旅遊台 
 http://176868.cloud/b6fc62db8824c89fc7317a52ea0f97ba/ce0899ce5196a8e421a6ed74d2ef6d7c/6f8d468f988be24463c8bbe0b3ff56d2/index.m3u8 #EXTINF:-1 group-title="TW-IV",128 HITS頻道 
+
+http://176868.cloud/c90e5fa7d6bde5c2391847543790e9bc/ce0899ce5196a8e421a6ed74d2ef6d7c/f0c0677bab16cfa486f97e7a3a79d501/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 42 台視 HD 
+http://176868.cloud/48c3d5e5adebbfa9c9611493e30a0800/ce0899ce5196a8e421a6ed74d2ef6d7c/50988b5469900e6b522fbc8bdd2d126f/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 43 中視 HD 
+http://176868.cloud/2dce1ed84b4f263c2250af0f9c7a2293/ce0899ce5196a8e421a6ed74d2ef6d7c/d8b97e80609c4eb77369956012655543/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 44 華視CTS HD 
+http://176868.cloud/96cbea28403a220a4b15bf4796c71f55/ce0899ce5196a8e421a6ed74d2ef6d7c/7d24eeb4f7d7f08bfb0b4db85a44be4e/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 45 民視 HD 
+http://176868.cloud/73a8312643530b31b9da80bc273a46a9/ce0899ce5196a8e421a6ed74d2ef6d7c/6c9086730c91e2b57225bd9865a16238/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 46 公視 HD 
+
+
 
 
 http://176868.cloud/92309b35db5e53f63f2e807c8a6418e8/ce0899ce5196a8e421a6ed74d2ef6d7c/8b02bea1d7234a273e01172822539c04/index.m3u8 #EXTINF:-1 group-title="HK",[myTV SUPER] 86 千禧經典台 
