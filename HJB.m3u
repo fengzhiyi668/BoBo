@@ -17,7 +17,7 @@ https://hjb.yifeng293.workers.dev/JUHD
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"j5emKd5oCvk6ZSwxArZYmA", "kid":"4E+s3ZE1Te7jGMZ0mTt0wQ" } ], "type":"temporary" }
 https://hjb.yifeng293.workers.dev/P
 
-#EXTINF:-1 tvg-id="B" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB3.png",J2
+#EXTINF:-1 tvg-id="B" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB-PLUS.png",TVB PLUS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XZ2OlX0uRdgYmlb+hmWqqg", "kid":"VmA7Zfodc4O27w5zua5p+g" } ], "type":"temporary" }
@@ -40,12 +40,6 @@ https://hjb.yifeng293.workers.dev/CWIN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UVRtHyrwVH8OlhmVtgoyoQ", "kid":"kKC9Adn2y7OYOc2baPwmvA" } ], "type":"temporary" }
 https://hjb.yifeng293.workers.dev/C
-
-#EXTINF:-1 tvg-id="A" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB5.png",無綫財經 體育 資訊台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bpbqZvUbK5wWxdbFszFKhg", "kid":"kdtyiigG0KC7udkuYI9UmA" } ], "type":"temporary" }
-https://hjb.yifeng293.workers.dev/A
 
 #EXTINF:-1 tvg-id="CTVE" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB_Entertainment_News_2017_logo.png",娛樂新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
