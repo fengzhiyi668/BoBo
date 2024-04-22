@@ -70,7 +70,7 @@ http://176868.cloud/aecc7c73761be0072c930f079880b03c/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/50786ec032abb45ec08cd43b447b4c7c/ce0899ce5196a8e421a6ed74d2ef6d7c/b8bdd6dab9a126dacc2430c596825824/index.m3u8
 #EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AXNTV.png" group-title="台湾",AXN
 http://176868.cloud/d52563d4aa9f8f2d76af750049c7743a/ce0899ce5196a8e421a6ed74d2ef6d7c/b4fe34d0307f7c60ec25bb3aed1788df/index.m3u8
-#EXTINF:-1,tvg-id="探索頻道" tvg-name="探索頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery.png" group-title="台湾",探索頻道
+#EXTINF:-1,tvg-id="探索頻道" tvg-name="探索頻道" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/2019_Discovery.png" group-title="台湾",探索頻道
 http://176868.cloud/27a7201f4150714d7f679837206110f3/ce0899ce5196a8e421a6ed74d2ef6d7c/27f0ff9b0c201213b664405e21c1acde/index.m3u8
 #EXTINF:-1,tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="台湾",愛爾達體育1台
 http://176868.cloud/418b6a324d8ff960ac5070085c7d1299/ce0899ce5196a8e421a6ed74d2ef6d7c/b40e37f4d7e1f0364fcc03abb65a87be/index.m3u8
@@ -78,44 +78,61 @@ http://176868.cloud/418b6a324d8ff960ac5070085c7d1299/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/9554c27e9bda0460f61cc406c4dfa6d4/ce0899ce5196a8e421a6ed74d2ef6d7c/ef5b787d14ecacb171b8ffa7b57eec93/index.m3u8
 #EXTINF:-1,tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="台湾",愛爾達體育3台
 http://176868.cloud/4ab3b496b747f832637fa47195ce159c/ce0899ce5196a8e421a6ed74d2ef6d7c/cefc4430a1133fc290fd6c1d863a9fc1/index.m3u8
-#EXTINF:-1,tvg-id="愛爾達體育4台" tvg-name="愛爾達體育4台" tvg-logo="" group-title="台湾",愛爾達體育4台
+#EXTINF:-1,tvg-id="愛爾達體育4台" tvg-name="愛爾達體育4台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-ty4.png" group-title="台湾",愛爾達體育4台
 http://176868.cloud/e884c4d2562fed19a593474e2b2bfb6a/ce0899ce5196a8e421a6ed74d2ef6d7c/f71ed0030b35d3def0356f07a8e02a6e/index.m3u8
-#EXTINF:-1,tvg-id="愛爾達影劇台" tvg-name="愛爾達影劇台" tvg-logo="" group-title="台湾",愛爾達影劇台
+#EXTINF:-1,tvg-id="愛爾達影劇台" tvg-name="愛爾達影劇台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-yingju.png" group-title="台湾",愛爾達影劇台
 http://176868.cloud/234abe2e5c7d2545fead1574efc5772c/ce0899ce5196a8e421a6ed74d2ef6d7c/5256ab208421f1adf715ef68534e4ee0/index.m3u8
-#EXTINF:-1,tvg-id="愛爾達綜合台" tvg-name="愛爾達綜合台" tvg-logo="" group-title="台湾",愛爾達綜合台
+#EXTINF:-1,tvg-id="愛爾達綜合台" tvg-name="愛爾達綜合台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-zonghe.png" group-title="台湾",愛爾達綜合台
 http://176868.cloud/82b25a4562628bfac2e052620a4515b3/ce0899ce5196a8e421a6ed74d2ef6d7c/913968fc66c580da809baff5bf9d8260/index.m3u8
-#EXTINF:-1,tvg-id="愛爾達日韓台" tvg-name="愛爾達日韓台" tvg-logo="" group-title="台湾",愛爾達日韓台
+#EXTINF:-1,tvg-id="愛爾達日韓台" tvg-name="愛爾達日韓台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-rihan.png" group-title="台湾",愛爾達日韓台
 http://176868.cloud/33ba62f99c23ce7e62986b71ed705263/ce0899ce5196a8e421a6ed74d2ef6d7c/a13a6e1cdbb3e24d55c9a29e71219769/index.m3u8
-#EXTINF:-1,tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="" group-title="台湾",愛爾達娛樂台
+#EXTINF:-1,tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-yule.png" group-title="台湾",愛爾達娛樂台
 http://176868.cloud/7e1add6bbb35bd523ad504c9dc0036ff/ce0899ce5196a8e421a6ed74d2ef6d7c/7d843ee4b7b12df874779b8371fb5ee4/index.m3u8
-#EXTINF:-1,tvg-id="愛爾達體育MAX1台" tvg-name="愛爾達體育MAX1台" tvg-logo="" group-title="台湾",愛爾達體育MAX1台
+#EXTINF:-1,tvg-id="愛爾達體育MAX1台" tvg-name="愛爾達體育MAX1台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX1.png" group-title="台湾",愛爾達體育MAX1台
 http://176868.cloud/83084801a9eb161c2c8026d70b816d34/ce0899ce5196a8e421a6ed74d2ef6d7c/80f0ff26ba5fc08e57edf171eeab7865/index.m3u8
-#EXTINF:-1,tvg-id="愛爾達體育MAX2台" tvg-name="愛爾達體育MAX2台" tvg-logo="" group-title="台湾",愛爾達體育MAX2台
+#EXTINF:-1,tvg-id="愛爾達體育MAX2台" tvg-name="愛爾達體育MAX2台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX2.png" group-title="台湾",愛爾達體育MAX2台
 http://176868.cloud/eb427a627742a9e3aaf98fc598b49e9a/ce0899ce5196a8e421a6ed74d2ef6d7c/14e11f666ec339782e1f239a6d837aff/index.m3u8
-#EXTINF:-1,tvg-id="愛爾達體育MAX3台" tvg-name="愛爾達體育MAX3台" tvg-logo="" group-title="台湾",愛爾達體育MAX3台
+#EXTINF:-1,tvg-id="愛爾達體育MAX3台" tvg-name="愛爾達體育MAX3台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX3.png" group-title="台湾",愛爾達體育MAX3台
 http://176868.cloud/b980bc506306c67bbd97a6fb47f576cd/ce0899ce5196a8e421a6ed74d2ef6d7c/d9ff5fa3ca9dae39176ff06b3a19043c/index.m3u8
-#EXTINF:-1,tvg-id="愛爾達體育MAX4台" tvg-name="愛爾達體育MAX4台" tvg-logo="" group-title="台湾",愛爾達體育MAX4台
+#EXTINF:-1,tvg-id="愛爾達體育MAX4台" tvg-name="愛爾達體育MAX4台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX4.png" group-title="台湾",愛爾達體育MAX4台
 http://176868.cloud/9dcd592a33631c34eb3622d8e15fcc37/ce0899ce5196a8e421a6ed74d2ef6d7c/c1ce5700af5d9f1cdecf09b992471c79/index.m3u8
-#EXTINF:-1,tvg-id="愛爾達體育MAX5台" tvg-name="愛爾達體育MAX5台" tvg-logo="" group-title="台湾",愛爾達體育MAX5台
+#EXTINF:-1,tvg-id="愛爾達體育MAX5台" tvg-name="愛爾達體育MAX5台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX5.png" group-title="台湾",愛爾達體育MAX5台
 http://176868.cloud/2197e0c8dd5da53d8c2002be64be5c45/ce0899ce5196a8e421a6ed74d2ef6d7c/67a2e2fd6ec5a04a009711090e903189/index.m3u8
-#EXTINF:-1,tvg-id="愛爾達體育MAX6台" tvg-name="愛爾達體育MAX6台" tvg-logo="" group-title="台湾",愛爾達體育MAX6台
+#EXTINF:-1,tvg-id="愛爾達體育MAX6台" tvg-name="愛爾達體育MAX6台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX6.png" group-title="台湾",愛爾達體育MAX6台
 http://176868.cloud/3d7f0049bc71b55400357dbd9b44ab8d/ce0899ce5196a8e421a6ed74d2ef6d7c/5f9b3d6a656ca57dd6b8c080a10a4799/index.m3u8
-#EXTINF:-1,tvg-id="愛爾達體育MAX7台" tvg-name="愛爾達體育MAX7台" tvg-logo="" group-title="台湾",愛爾達體育MAX7台
+#EXTINF:-1,tvg-id="愛爾達體育MAX7台" tvg-name="愛爾達體育MAX7台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX7.png" group-title="台湾",愛爾達體育MAX7台
 http://176868.cloud/b23e467379331f3bd0c12060f7361b10/ce0899ce5196a8e421a6ed74d2ef6d7c/a19eca8da11ff8d54f9cf3707026ec2c/index.m3u8
-#EXTINF:-1,tvg-id="愛爾達體育MAX8台" tvg-name="愛爾達體育MAX8台" tvg-logo="" group-title="台湾",愛爾達體育MAX8台
+#EXTINF:-1,tvg-id="愛爾達體育MAX8台" tvg-name="愛爾達體育MAX8台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX8.png" group-title="台湾",愛爾達體育MAX8台
 http://176868.cloud/aa34d50c8c71ea709e8ff63a41195f98/ce0899ce5196a8e421a6ed74d2ef6d7c/16a721db4260f6e23c9fcd95fba2d1e0/index.m3u8
+#EXTINF:-1,tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BBC2.png" group-title="台湾",BBC Earth
+http://176868.cloud/0d47c54bd3ab6e814f023f7e4f1ed496/ce0899ce5196a8e421a6ed74d2ef6d7c/9340416a69d59e07df140d6c2126d672/index.m3u8
+#EXTINF:-1,tvg-id="Discovery EVE" tvg-name="Discovery EVE" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/eve.png" group-title="台湾",Discovery EVE
+http://176868.cloud/1643f2799f6ba6545405f8c33fa50656/ce0899ce5196a8e421a6ed74d2ef6d7c/3e9a4dc017c7db1b607518dee6d94d55/index.m3u8
+#EXTINF:-1,tvg-id="Discovery 科學台" tvg-name="Discovery 科學台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/Discovery_Science.png" group-title="台湾",Discovery 科學台
+http://176868.cloud/8b0c6072c85558b62c59df20efd871fc/ce0899ce5196a8e421a6ed74d2ef6d7c/37347c4afa57740e6f027ab7dc340fbe/index.m3u8
+#EXTINF:-1,tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BBC3.png" group-title="台湾",BBC Lifestyle
+http://176868.cloud/3c5f36fc9ad0b5ecc9efdb064ef124d9/ce0899ce5196a8e421a6ed74d2ef6d7c/741d65a085ebd44a706c60b245831603/index.m3u8
+#EXTINF:-1,tvg-id="Discovery DMAX" tvg-name="Discovery DMAX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/DMAX.png" group-title="台湾",Discovery DMAX
+http://176868.cloud/62158ef1e5fc0cec94dbf951857fe74a/ce0899ce5196a8e421a6ed74d2ef6d7c/397dc244b7f97a4e995fe335194a5673/index.m3u8
+#EXTINF:-1,tvg-id="HGTV居家樂活頻道" tvg-name="HGTV居家樂活頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HGTV.png" group-title="台湾",HGTV居家樂活頻道
+http://176868.cloud/60bd1fc7144628c052db44b2fdf0e670/ce0899ce5196a8e421a6ed74d2ef6d7c/71582fc41bff875ccf283680a3698396/index.m3u8
+
+#EXTINF:-1,tvg-id="爆谷台 (粵)" tvg-name="爆谷台 (粵)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="香港",爆谷台 (粵) 
+http://176868.cloud/d6a0e2a3bd8a4f651a4afb0f6de3b354/ce0899ce5196a8e421a6ed74d2ef6d7c/bd00715eb40c32210ebe226d4c94fa21/index.m3u8
+#EXTINF:-1,tvg-id="爆谷台 (普)" tvg-name="爆谷台 (普)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="香港",爆谷台 (普)
+http://176868.cloud/5178183013d02a229dcd72f6ab20e121/ce0899ce5196a8e421a6ed74d2ef6d7c/5aff1bcab410e069b92a56e0123fe342/index.m3u8
+#EXTINF:-1,tvg-id="爆谷星影台 (粵)" tvg-name="爆谷星影台 (粵)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="香港",爆谷星影台 (粵)
+http://176868.cloud/8e84ba7d4521814adad9ca95f7db43f8/ce0899ce5196a8e421a6ed74d2ef6d7c/5f5d96cc683e71e2cf67ef9469370dfc/index.m3u8
+#EXTINF:-1,tvg-id="爆谷星影台 (普)" tvg-name="爆谷星影台 (普)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="香港",爆谷星影台 (普)
+http://176868.cloud/8c9c23f7617996b8e4e921ed5416a174/ce0899ce5196a8e421a6ed74d2ef6d7c/33d42bc4051d0b7005461b897298fcec/index.m3u8
+
+
+
+
+
+
 
  
-
-
-
-
-http://176868.cloud/0d47c54bd3ab6e814f023f7e4f1ed496/ce0899ce5196a8e421a6ed74d2ef6d7c/9340416a69d59e07df140d6c2126d672/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 74 BBC Earth 
-http://176868.cloud/1643f2799f6ba6545405f8c33fa50656/ce0899ce5196a8e421a6ed74d2ef6d7c/3e9a4dc017c7db1b607518dee6d94d55/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 76 Discovery EVE 
-http://176868.cloud/8b0c6072c85558b62c59df20efd871fc/ce0899ce5196a8e421a6ed74d2ef6d7c/37347c4afa57740e6f027ab7dc340fbe/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 77 Discovery科學台(Science) 
-http://176868.cloud/3c5f36fc9ad0b5ecc9efdb064ef124d9/ce0899ce5196a8e421a6ed74d2ef6d7c/741d65a085ebd44a706c60b245831603/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 78 BBC Lifestyle 
-http://176868.cloud/62158ef1e5fc0cec94dbf951857fe74a/ce0899ce5196a8e421a6ed74d2ef6d7c/397dc244b7f97a4e995fe335194a5673/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 80 Discovery DMAX 
-http://176868.cloud/60bd1fc7144628c052db44b2fdf0e670/ce0899ce5196a8e421a6ed74d2ef6d7c/71582fc41bff875ccf283680a3698396/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 88 HGTV居家樂活頻道 
 http://176868.cloud/2ac9f4875f463bbfe539e9bf1b4310e4/ce0899ce5196a8e421a6ed74d2ef6d7c/c98e2602ba96a25000fa89726e3413d7/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 89 Discovery Asia 
 http://176868.cloud/029c527a5053991c5a81bc1ce17eab9c/ce0899ce5196a8e421a6ed74d2ef6d7c/4e2746ecec3c50573383c95b9e6fe975/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 90 CN卡通頻道 
 http://176868.cloud/0bec68066319d7c374fa213b5a0a15f8/ce0899ce5196a8e421a6ed74d2ef6d7c/20aff7436409a28880db4fbdb4d8f170/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 93 ROCK Action 
@@ -185,10 +202,7 @@ http://176868.cloud/aecc7c73761be0072c930f079880b03c/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/b0e2d46e5f91aa6e9446be6c66b8c67a/ce0899ce5196a8e421a6ed74d2ef6d7c/0b9c3b4f7928b474a51d0e62fa56ac0a/index.m3u8 #EXTINF:-1 group-title="HK",[NowTV] 114 HBO Signature 
 http://176868.cloud/50786ec032abb45ec08cd43b447b4c7c/ce0899ce5196a8e421a6ed74d2ef6d7c/b8bdd6dab9a126dacc2430c596825824/index.m3u8 #EXTINF:-1 group-title="HK",[NowTV] 115 HBO 
 http://176868.cloud/2d4f75f1ee4c51b17f1bf7aa23d81dd8/ce0899ce5196a8e421a6ed74d2ef6d7c/799ac578eb1cd87bd9b8df62fd892d24/index.m3u8 #EXTINF:-1 group-title="HK",[NowTV] 116 MOVIE MOVIE 
-http://176868.cloud/d6a0e2a3bd8a4f651a4afb0f6de3b354/ce0899ce5196a8e421a6ed74d2ef6d7c/bd00715eb40c32210ebe226d4c94fa21/index.m3u8 #EXTINF:-1 group-title="HK",[NowTV] 133 爆谷台 (粵) 
-http://176868.cloud/5178183013d02a229dcd72f6ab20e121/ce0899ce5196a8e421a6ed74d2ef6d7c/5aff1bcab410e069b92a56e0123fe342/index.m3u8 #EXTINF:-1 group-title="HK",[NowTV] 133 爆谷台 (普) 
-http://176868.cloud/8e84ba7d4521814adad9ca95f7db43f8/ce0899ce5196a8e421a6ed74d2ef6d7c/5f5d96cc683e71e2cf67ef9469370dfc/index.m3u8 #EXTINF:-1 group-title="HK",[NowTV] 138 爆谷星影台 (粵) 
-http://176868.cloud/8c9c23f7617996b8e4e921ed5416a174/ce0899ce5196a8e421a6ed74d2ef6d7c/33d42bc4051d0b7005461b897298fcec/index.m3u8 #EXTINF:-1 group-title="HK",[NowTV] 138 爆谷星影台 (普) 
+
 http://176868.cloud/8f0486f89319b1bda748a231813472aa/ce0899ce5196a8e421a6ed74d2ef6d7c/6a2678c0a2143ace921b969c219dc652/index.m3u8 #EXTINF:-1 group-title="US",[TVB] 01 TVB1 
 http://176868.cloud/7a809c5e61d6b8482419186815302feb/ce0899ce5196a8e421a6ed74d2ef6d7c/33dfd85c51ccba8a252e70bb2516487e/index.m3u8 #EXTINF:-1 group-title="US",[TVB] 02 TVBe 
 http://176868.cloud/fc6ee663df585412bd9095947bbc55f0/ce0899ce5196a8e421a6ed74d2ef6d7c/18c8decea5662b006097a0e20562d65d/index.m3u8 #EXTINF:-1 group-title="US",[TVB] 03 TVB Drama 
