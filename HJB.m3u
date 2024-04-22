@@ -65,13 +65,13 @@ https://hjb.yifeng293.workers.dev/PIN
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uGhfvs93LmQVRjCCnPMwow", "kid":"zeYuEFbrNhXat6Pv2D9etA" } ], "type":"temporary" }
 https://hjb.yifeng293.workers.dev/PHK
 #EXTINF:-1,tvg-id="爆谷台 (粵)" tvg-name="爆谷台 (粵)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="香港",爆谷台 (粵) 
-http://176868.cloud/d6a0e2a3bd8a4f651a4afb0f6de3b354/ce0899ce5196a8e421a6ed74d2ef6d7c/bd00715eb40c32210ebe226d4c94fa21/index.m3u8
-#EXTINF:-1,tvg-id="爆谷台 (普)" tvg-name="爆谷台 (普)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="香港",爆谷台 (普)
 http://176868.cloud/5178183013d02a229dcd72f6ab20e121/ce0899ce5196a8e421a6ed74d2ef6d7c/5aff1bcab410e069b92a56e0123fe342/index.m3u8
+#EXTINF:-1,tvg-id="爆谷台 (普)" tvg-name="爆谷台 (普)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="香港",爆谷台 (普)
+http://176868.cloud/8e84ba7d4521814adad9ca95f7db43f8/ce0899ce5196a8e421a6ed74d2ef6d7c/5f5d96cc683e71e2cf67ef9469370dfc/index.m3u8 
 #EXTINF:-1,tvg-id="爆谷星影台 (粵)" tvg-name="爆谷星影台 (粵)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="香港",爆谷星影台 (粵)
-http://176868.cloud/8e84ba7d4521814adad9ca95f7db43f8/ce0899ce5196a8e421a6ed74d2ef6d7c/5f5d96cc683e71e2cf67ef9469370dfc/index.m3u8
+http://176868.cloud/8c9c23f7617996b8e4e921ed5416a174/ce0899ce5196a8e421a6ed74d2ef6d7c/33d42bc4051d0b7005461b897298fcec/index.m3u8 
 #EXTINF:-1,tvg-id="爆谷星影台 (普)" tvg-name="爆谷星影台 (普)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="香港",爆谷星影台 (普)
-http://176868.cloud/8c9c23f7617996b8e4e921ed5416a174/ce0899ce5196a8e421a6ed74d2ef6d7c/33d42bc4051d0b7005461b897298fcec/index.m3u8
+http://176868.cloud/29585c4755ce14adae6e4c44e2d7c149/ce0899ce5196a8e421a6ed74d2ef6d7c/79feeeba7831b79ba69f1efb8c9e94f7/index.m3u8 
 
 #EXTINF:-1,tvg-id="龍祥電影" tvg-name="龍祥電影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="台湾",龍祥電影
 http://176868.cloud/9e00dca2879f7a423c9f177da08c05ac/ce0899ce5196a8e421a6ed74d2ef6d7c/8bd04ae5cd28d0aa02619bba89ce0967/index.m3u8
