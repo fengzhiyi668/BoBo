@@ -1,17 +1,34 @@
-http://176868.cloud/b17a3d543479413667ba7b944c24f82e/ce0899ce5196a8e421a6ed74d2ef6d7c/b07dc6b8033fc4aebedca5eeedd93504/index.m3u8 #EXTINF:-1 group-title="TW",[TW] 龍祥電影 
-http://176868.cloud/b249112c012b591fd36db8c0e6f76c78/ce0899ce5196a8e421a6ed74d2ef6d7c/7613a7b3ff4b6b7a7a17fecb9362816a/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 104 龍華影劇 
-http://176868.cloud/83160e479b27a846f032f159dff5e7f3/ce0899ce5196a8e421a6ed74d2ef6d7c/66bbed8b3f622bba9deec3450a889b63/index.m3u8 #EXTINF:-1 group-title="TW-II",[TW-II] 064 龍華日韓台 
-http://176868.cloud/f78a600e002b2786c71352309ea5ea41/ce0899ce5196a8e421a6ed74d2ef6d7c/f70482ea86c730b5f2f004e69f0433a8/index.m3u8 #EXTINF:-1 group-title="TW-II",[TW-II] 065 龍華偶像台 
-http://176868.cloud/cd44d1f711c80e5f0814bc2cb59be9ff/ce0899ce5196a8e421a6ed74d2ef6d7c/923c1f09b8c69ce6ba2eaf098a1ead71/index.m3u8 #EXTINF:-1 group-title="TW-II",[TW-II] 066 龍華電影台 
-http://176868.cloud/b897e220238e13d0e42e8ba78a95f7a4/ce0899ce5196a8e421a6ed74d2ef6d7c/8a2e44154796c412be54ee5f3c4bd80f/index.m3u8 #EXTINF:-1 group-title="TW-II",[TW-II] 067 龍華戲劇台 
-http://176868.cloud/b8f64c4ad0d31764c1ee5b2936c28da7/ce0899ce5196a8e421a6ed74d2ef6d7c/c19f6bd83b6adbcd3433d2cf3bdeced9/index.m3u8 #EXTINF:-1 group-title="TW-III",[TW-III] 307 龍華經典台 
-http://176868.cloud/2b37318e984646e23cb2a067e96ddbbb/ce0899ce5196a8e421a6ed74d2ef6d7c/fe8076842102dfd456af250d3ee0c27f/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 03 東森幼幼YOYO 
-http://176868.cloud/3a0198b12eb73537b46dbcedf6b365d6/ce0899ce5196a8e421a6ed74d2ef6d7c/fbf53c0971b3922d96260eee93bc6c37/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 06 東森綜合台 
-http://176868.cloud/5bc13edf02130e4c2c7c3262546559c7/ce0899ce5196a8e421a6ed74d2ef6d7c/7f8e77c3c97a24aac8242cda3093fa92/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 07 東森戲劇台 
-http://176868.cloud/695589673f01e9fa24423128acb2c0a0/ce0899ce5196a8e421a6ed74d2ef6d7c/314cf0271b6803995f893931d9030bed/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 08 東森超視台 
-http://176868.cloud/fe3dd98f8c0257dee41e96725e74e357/ce0899ce5196a8e421a6ed74d2ef6d7c/95a67e23363d75169db60873961b3a22/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 08 東森電影
-http://176868.cloud/f22e77b352f19b1079009730c6c55770/ce0899ce5196a8e421a6ed74d2ef6d7c/7f02b81eb2fb91a1f61f8118ce12128c/index.m3u8 #EXTINF:-1 group-title="TW",[TW] 東森洋片 
-http://176868.cloud/1fdf02e512e4646162df7757bc609964/ce0899ce5196a8e421a6ed74d2ef6d7c/8d958bdd188bd8e5228f423086852a3b/index.m3u8 #EXTINF:-1 group-title="TW",[TW] 八大綜合 
+#EXTINF:-1,tvg-id="龍祥電影" tvg-name="龍祥電影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="台湾",龍祥電影
+http://176868.cloud/b17a3d543479413667ba7b944c24f82e/ce0899ce5196a8e421a6ed74d2ef6d7c/b07dc6b8033fc4aebedca5eeedd93504/index.m3u8
+#EXTINF:-1,tvg-id="龍華影劇" tvg-name="龍華影劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV3.png" group-title="台湾",龍華影劇
+http://176868.cloud/b249112c012b591fd36db8c0e6f76c78/ce0899ce5196a8e421a6ed74d2ef6d7c/7613a7b3ff4b6b7a7a17fecb9362816a/index.m3u8
+#EXTINF:-1,tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV5.png" group-title="台湾",龍華日韓台
+http://176868.cloud/83160e479b27a846f032f159dff5e7f3/ce0899ce5196a8e421a6ed74d2ef6d7c/66bbed8b3f622bba9deec3450a889b63/index.m3u8
+#EXTINF:-1,tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV6.png" group-title="台湾",龍華偶像台
+http://176868.cloud/f78a600e002b2786c71352309ea5ea41/ce0899ce5196a8e421a6ed74d2ef6d7c/f70482ea86c730b5f2f004e69f0433a8/index.m3u8 
+#EXTINF:-1,tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="台湾",龍華電影台
+http://176868.cloud/cd44d1f711c80e5f0814bc2cb59be9ff/ce0899ce5196a8e421a6ed74d2ef6d7c/923c1f09b8c69ce6ba2eaf098a1ead71/index.m3u8
+#EXTINF:-1,tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV4.png" group-title="台湾",龍華戲劇台
+http://176868.cloud/b897e220238e13d0e42e8ba78a95f7a4/ce0899ce5196a8e421a6ed74d2ef6d7c/8a2e44154796c412be54ee5f3c4bd80f/index.m3u8
+#EXTINF:-1,tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV7.png" group-title="台湾",龍華經典台
+http://176868.cloud/b8f64c4ad0d31764c1ee5b2936c28da7/ce0899ce5196a8e421a6ed74d2ef6d7c/c19f6bd83b6adbcd3433d2cf3bdeced9/index.m3u8
+#EXTINF:-1,tvg-id="東森幼幼" tvg-name="東森幼幼" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC10.png" group-title="台湾",東森幼幼
+http://176868.cloud/2b37318e984646e23cb2a067e96ddbbb/ce0899ce5196a8e421a6ed74d2ef6d7c/fe8076842102dfd456af250d3ee0c27f/index.m3u8
+#EXTINF:-1,tvg-id="東森綜合台" tvg-name="東森綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC1.png" group-title="台湾",東森綜合台
+http://176868.cloud/3a0198b12eb73537b46dbcedf6b365d6/ce0899ce5196a8e421a6ed74d2ef6d7c/fbf53c0971b3922d96260eee93bc6c37/index.m3u8
+#EXTINF:-1,tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC5.png" group-title="台湾",東森戲劇台
+http://176868.cloud/5bc13edf02130e4c2c7c3262546559c7/ce0899ce5196a8e421a6ed74d2ef6d7c/7f8e77c3c97a24aac8242cda3093fa92/index.m3u8
+#EXTINF:-1,tvg-id="東森超視台" tvg-name="東森超視台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="台湾",東森超視台
+http://176868.cloud/695589673f01e9fa24423128acb2c0a0/ce0899ce5196a8e421a6ed74d2ef6d7c/314cf0271b6803995f893931d9030bed/index.m3u8
+#EXTINF:-1,tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC3.png" group-title="台湾",東森電影台
+http://176868.cloud/fe3dd98f8c0257dee41e96725e74e357/ce0899ce5196a8e421a6ed74d2ef6d7c/95a67e23363d75169db60873961b3a22/index.m3u8
+#EXTINF:-1,tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC4.png" group-title="台湾",東森洋片台
+http://176868.cloud/f22e77b352f19b1079009730c6c55770/ce0899ce5196a8e421a6ed74d2ef6d7c/7f02b81eb2fb91a1f61f8118ce12128c/index.m3u8 
+#EXTINF:-1,tvg-id="八大綜合台" tvg-name="八大綜合台" tvg-logo="" group-title="台湾",八大綜合台
+http://176868.cloud/1fdf02e512e4646162df7757bc609964/ce0899ce5196a8e421a6ed74d2ef6d7c/8d958bdd188bd8e5228f423086852a3b/index.m3u8 
+
+
+
 http://176868.cloud/f134fb30069ead52d244ca5af760d64b/ce0899ce5196a8e421a6ed74d2ef6d7c/6cc19ce955241ebbfb71123bd0f01eff/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 16 八大第一台 
 http://176868.cloud/0d6d78def945cdd8c1dcc882b8158845/ce0899ce5196a8e421a6ed74d2ef6d7c/821abd7ab9832a0434b8e37750bcd72e/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 17 八大戲劇台
 http://176868.cloud/25b36a041d82a5ad1002d20f66af8360/ce0899ce5196a8e421a6ed74d2ef6d7c/8f5c05c7234f2af3f10e45322f8e7e66/index.m3u8 #EXTINF:-1 group-title="TW-IV",130 八大精彩台 
