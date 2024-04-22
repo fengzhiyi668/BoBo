@@ -32,11 +32,13 @@ http://176868.cloud/f134fb30069ead52d244ca5af760d64b/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/2a616e0c9b1c15de227c56ee215bf04f/ce0899ce5196a8e421a6ed74d2ef6d7c/afcdf42d94e3a495c6f8b13192b0f03b/index.m3u8
 #EXTINF:-1,tvg-id="八大戲劇台" tvg-name="八大戲劇台" tvg-logo="" group-title="台湾",八大戲劇台 
 http://176868.cloud/0d6d78def945cdd8c1dcc882b8158845/ce0899ce5196a8e421a6ed74d2ef6d7c/821abd7ab9832a0434b8e37750bcd72e/index.m3u8
+#EXTINF:-1,tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="" group-title="台湾",八大精彩台 
+http://176868.cloud/25b36a041d82a5ad1002d20f66af8360/ce0899ce5196a8e421a6ed74d2ef6d7c/8f5c05c7234f2af3f10e45322f8e7e66/index.m3u8
+#EXTINF:-1,tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="" group-title="台湾",八大綜藝台
+http://176868.cloud/40b56618b2b3004aa19b5470269e8f33/ce0899ce5196a8e421a6ed74d2ef6d7c/cd32f422ce00c728010721d230e99111/index.m3u8
 
 
-
-http://176868.cloud/25b36a041d82a5ad1002d20f66af8360/ce0899ce5196a8e421a6ed74d2ef6d7c/8f5c05c7234f2af3f10e45322f8e7e66/index.m3u8 #EXTINF:-1 group-title="TW-IV",130 八大精彩台 
-http://176868.cloud/40b56618b2b3004aa19b5470269e8f33/ce0899ce5196a8e421a6ed74d2ef6d7c/cd32f422ce00c728010721d230e99111/index.m3u8 #EXTINF:-1 group-title="TW-V",160 八大綜藝台 
+ 
 http://176868.cloud/00c4571c706a634fdec570cbeb2f3b19/ce0899ce5196a8e421a6ed74d2ef6d7c/7596c5d18258779cc2476e162fc226cf/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 22 緯來體育台 
 http://176868.cloud/412df53cb4bfab0272ad99f705cc060e/ce0899ce5196a8e421a6ed74d2ef6d7c/a7178279eb9b4c2208a12244cb9eb1cb/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 23 緯來育樂台 
 http://176868.cloud/abdcf76645f96fbf3be5e4ecc24ae853/ce0899ce5196a8e421a6ed74d2ef6d7c/6296e38a415a39df2da1b04da0a6b9c9/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 24 東風37 
