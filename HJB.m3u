@@ -1,70 +1,196 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="J" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB1.png",翡翠台
+#EXTINF:-1 tvg-id="J" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB1.png" group-title="香港",翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LS/XsWYbHijeOCaIcrSEgA", "kid":"CVi5xldiLEZaYgXrIlK47Q" } ], "type":"temporary" }
 https://hjb.yifeng293.workers.dev/J
 
-#EXTINF:-1 tvg-id="JUHD" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB1.png",翡翠台 4K
+#EXTINF:-1 tvg-id="JUHD" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB1.png" group-title="香港",翡翠台 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/BRncamwlvxMtX/+dphhvg", "kid":"LARfWtsm05HMQc0B8AQW+g" } ], "type":"temporary" }
 https://hjb.yifeng293.workers.dev/JUHD
 
-#EXTINF:-1 tvg-id="P" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB2.png",明珠台
+#EXTINF:-1 tvg-id="P" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB2.png" group-title="香港",明珠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"j5emKd5oCvk6ZSwxArZYmA", "kid":"4E+s3ZE1Te7jGMZ0mTt0wQ" } ], "type":"temporary" }
 https://hjb.yifeng293.workers.dev/P
 
-#EXTINF:-1 tvg-id="B" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB-PLUS.png",TVB PLUS
+#EXTINF:-1 tvg-id="B" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB-PLUS.png" group-title="香港",TVB PLUS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XZ2OlX0uRdgYmlb+hmWqqg", "kid":"VmA7Zfodc4O27w5zua5p+g" } ], "type":"temporary" }
 https://hjb.yifeng293.workers.dev/B
 
-#EXTINF:-1 tvg-id="TVG" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",黄金翡翠台
+#EXTINF:-1 tvg-id="TVG" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png" group-title="香港",黄金翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XM6VgzVoueMi8XxhOHswbw", "kid":"j+PbGiSWlpSuNEfyZHPrnw" } ], "type":"temporary" }
 https://hjb.yifeng293.workers.dev/TVG
 
-#EXTINF:-1 tvg-id="CWIN" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",Super Free
+#EXTINF:-1 tvg-id="CWIN" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png" group-title="香港",Super Free
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FfUVRYzbUQdFL5Q6ERy+iQ", "kid":"Bze3XuiQbAC7e7j2ZtpyoA" } ], "type":"temporary" }
 https://hjb.yifeng293.workers.dev/CWIN
 
-#EXTINF:-1 tvg-id="C" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB4.png",無綫新聞台
+#EXTINF:-1 tvg-id="C" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB4.png" group-title="香港",無綫新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UVRtHyrwVH8OlhmVtgoyoQ", "kid":"kKC9Adn2y7OYOc2baPwmvA" } ], "type":"temporary" }
 https://hjb.yifeng293.workers.dev/C
 
-#EXTINF:-1 tvg-id="CTVE" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB_Entertainment_News_2017_logo.png",娛樂新聞台
+#EXTINF:-1 tvg-id="CTVE" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB_Entertainment_News_2017_logo.png" group-title="香港",娛樂新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"olYiDmwr6qgvTKX7pOwflQ", "kid":"b6Dkd1C14vtq35uaCsQxow" } ], "type":"temporary" }
 https://hjb.yifeng293.workers.dev/CTVE
 
-#EXTINF:-1 tvg-id="PCC" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Phoenix1.png",鳳凰衛視中文台
+#EXTINF:-1 tvg-id="PCC" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Phoenix1.png" group-title="香港",鳳凰衛視中文台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6xnH486jTckGReM/mDsVqw", "kid":"e8oHcbqSBe211GfOL98BYg" } ], "type":"temporary" }
 https://hjb.yifeng293.workers.dev/PCC
 
-#EXTINF:-1 tvg-id="PIN" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Phoenix2.png",凤凰卫视资讯台
+#EXTINF:-1 tvg-id="PIN" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Phoenix2.png" group-title="香港",凤凰卫视资讯台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7NyAZaRih7+1jp92Xk7sKw", "kid":"g/fTE638CluXi576BCHOJQ" } ], "type":"temporary" }
 https://hjb.yifeng293.workers.dev/PIN
 
-#EXTINF:-1 tvg-id="PHK" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Phoenix3.png",鳳凰衛視香港台
+#EXTINF:-1 tvg-id="PHK" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Phoenix3.png" group-title="香港",鳳凰衛視香港台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uGhfvs93LmQVRjCCnPMwow", "kid":"zeYuEFbrNhXat6Pv2D9etA" } ], "type":"temporary" }
 https://hjb.yifeng293.workers.dev/PHK
+#EXTINF:-1,tvg-id="爆谷台 (粵)" tvg-name="爆谷台 (粵)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="香港",爆谷台 (粵) 
+http://176868.cloud/d6a0e2a3bd8a4f651a4afb0f6de3b354/ce0899ce5196a8e421a6ed74d2ef6d7c/bd00715eb40c32210ebe226d4c94fa21/index.m3u8
+#EXTINF:-1,tvg-id="爆谷台 (普)" tvg-name="爆谷台 (普)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="香港",爆谷台 (普)
+http://176868.cloud/5178183013d02a229dcd72f6ab20e121/ce0899ce5196a8e421a6ed74d2ef6d7c/5aff1bcab410e069b92a56e0123fe342/index.m3u8
+#EXTINF:-1,tvg-id="爆谷星影台 (粵)" tvg-name="爆谷星影台 (粵)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="香港",爆谷星影台 (粵)
+http://176868.cloud/8e84ba7d4521814adad9ca95f7db43f8/ce0899ce5196a8e421a6ed74d2ef6d7c/5f5d96cc683e71e2cf67ef9469370dfc/index.m3u8
+#EXTINF:-1,tvg-id="爆谷星影台 (普)" tvg-name="爆谷星影台 (普)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="香港",爆谷星影台 (普)
+http://176868.cloud/8c9c23f7617996b8e4e921ed5416a174/ce0899ce5196a8e421a6ed74d2ef6d7c/33d42bc4051d0b7005461b897298fcec/index.m3u8
 
+#EXTINF:-1,tvg-id="龍祥電影" tvg-name="龍祥電影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="台湾",龍祥電影
+http://176868.cloud/b17a3d543479413667ba7b944c24f82e/ce0899ce5196a8e421a6ed74d2ef6d7c/b07dc6b8033fc4aebedca5eeedd93504/index.m3u8
+#EXTINF:-1,tvg-id="龍華影劇" tvg-name="龍華影劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV3.png" group-title="台湾",龍華影劇
+http://176868.cloud/b249112c012b591fd36db8c0e6f76c78/ce0899ce5196a8e421a6ed74d2ef6d7c/7613a7b3ff4b6b7a7a17fecb9362816a/index.m3u8
+#EXTINF:-1,tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV5.png" group-title="台湾",龍華日韓台
+http://176868.cloud/83160e479b27a846f032f159dff5e7f3/ce0899ce5196a8e421a6ed74d2ef6d7c/66bbed8b3f622bba9deec3450a889b63/index.m3u8
+#EXTINF:-1,tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV6.png" group-title="台湾",龍華偶像台
+http://176868.cloud/f78a600e002b2786c71352309ea5ea41/ce0899ce5196a8e421a6ed74d2ef6d7c/f70482ea86c730b5f2f004e69f0433a8/index.m3u8 
+#EXTINF:-1,tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="台湾",龍華電影台
+http://176868.cloud/cd44d1f711c80e5f0814bc2cb59be9ff/ce0899ce5196a8e421a6ed74d2ef6d7c/923c1f09b8c69ce6ba2eaf098a1ead71/index.m3u8
+#EXTINF:-1,tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV4.png" group-title="台湾",龍華戲劇台
+http://176868.cloud/b897e220238e13d0e42e8ba78a95f7a4/ce0899ce5196a8e421a6ed74d2ef6d7c/8a2e44154796c412be54ee5f3c4bd80f/index.m3u8
+#EXTINF:-1,tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV7.png" group-title="台湾",龍華經典台
+http://176868.cloud/b8f64c4ad0d31764c1ee5b2936c28da7/ce0899ce5196a8e421a6ed74d2ef6d7c/c19f6bd83b6adbcd3433d2cf3bdeced9/index.m3u8
+#EXTINF:-1,tvg-id="東森幼幼" tvg-name="東森幼幼" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC10.png" group-title="台湾",東森幼幼
+http://176868.cloud/2b37318e984646e23cb2a067e96ddbbb/ce0899ce5196a8e421a6ed74d2ef6d7c/fe8076842102dfd456af250d3ee0c27f/index.m3u8
+#EXTINF:-1,tvg-id="東森綜合台" tvg-name="東森綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC1.png" group-title="台湾",東森綜合台
+http://176868.cloud/3a0198b12eb73537b46dbcedf6b365d6/ce0899ce5196a8e421a6ed74d2ef6d7c/fbf53c0971b3922d96260eee93bc6c37/index.m3u8
+#EXTINF:-1,tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC5.png" group-title="台湾",東森戲劇台
+http://176868.cloud/5bc13edf02130e4c2c7c3262546559c7/ce0899ce5196a8e421a6ed74d2ef6d7c/7f8e77c3c97a24aac8242cda3093fa92/index.m3u8
+#EXTINF:-1,tvg-id="東森超視台" tvg-name="東森超視台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="台湾",東森超視台
+http://176868.cloud/695589673f01e9fa24423128acb2c0a0/ce0899ce5196a8e421a6ed74d2ef6d7c/314cf0271b6803995f893931d9030bed/index.m3u8
+#EXTINF:-1,tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC3.png" group-title="台湾",東森電影台
+http://176868.cloud/fe3dd98f8c0257dee41e96725e74e357/ce0899ce5196a8e421a6ed74d2ef6d7c/95a67e23363d75169db60873961b3a22/index.m3u8
+#EXTINF:-1,tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC4.png" group-title="台湾",東森洋片台
+http://176868.cloud/f22e77b352f19b1079009730c6c55770/ce0899ce5196a8e421a6ed74d2ef6d7c/7f02b81eb2fb91a1f61f8118ce12128c/index.m3u8 
+#EXTINF:-1,tvg-id="八大綜合台" tvg-name="八大綜合台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/GTV_Variety_logo_2018.png" group-title="台湾",八大綜合台
+http://176868.cloud/1fdf02e512e4646162df7757bc609964/ce0899ce5196a8e421a6ed74d2ef6d7c/8d958bdd188bd8e5228f423086852a3b/index.m3u8 
+#EXTINF:-1,tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/GTV_One_logo_2018_01.png" group-title="台湾",八大第一台 
+http://176868.cloud/f134fb30069ead52d244ca5af760d64b/ce0899ce5196a8e421a6ed74d2ef6d7c/6cc19ce955241ebbfb71123bd0f01eff/index.m3u8
+#EXTINF:-1,tvg-id="八大娛樂台" tvg-name="八大娛樂台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/GTV_Entertainment_logo_2018.png" group-title="台湾",八大娛樂台 
+http://176868.cloud/2a616e0c9b1c15de227c56ee215bf04f/ce0899ce5196a8e421a6ed74d2ef6d7c/afcdf42d94e3a495c6f8b13192b0f03b/index.m3u8
+#EXTINF:-1,tvg-id="八大戲劇台" tvg-name="八大戲劇台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/GTV_Drama_logo_2018.png" group-title="台湾",八大戲劇台 
+http://176868.cloud/0d6d78def945cdd8c1dcc882b8158845/ce0899ce5196a8e421a6ed74d2ef6d7c/821abd7ab9832a0434b8e37750bcd72e/index.m3u8
+#EXTINF:-1,tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/bada%20jingcai.png" group-title="台湾",八大精彩台 
+http://176868.cloud/25b36a041d82a5ad1002d20f66af8360/ce0899ce5196a8e421a6ed74d2ef6d7c/8f5c05c7234f2af3f10e45322f8e7e66/index.m3u8
+#EXTINF:-1,tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/bada%20zongyi.png" group-title="台湾",八大綜藝台
+http://176868.cloud/40b56618b2b3004aa19b5470269e8f33/ce0899ce5196a8e421a6ed74d2ef6d7c/cd32f422ce00c728010721d230e99111/index.m3u8
+#EXTINF:-1,tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="台湾",緯來體育台
+http://176868.cloud/00c4571c706a634fdec570cbeb2f3b19/ce0899ce5196a8e421a6ed74d2ef6d7c/7596c5d18258779cc2476e162fc226cf/index.m3u8
+#EXTINF:-1,tvg-id="緯來育樂台" tvg-name="緯來育樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland6.png" group-title="台湾",緯來育樂台
+http://176868.cloud/412df53cb4bfab0272ad99f705cc060e/ce0899ce5196a8e421a6ed74d2ef6d7c/a7178279eb9b4c2208a12244cb9eb1cb/index.m3u8
+#EXTINF:-1,tvg-id="東風37" tvg-name="東風37" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfeng.png" group-title="台湾",東風37
+http://176868.cloud/abdcf76645f96fbf3be5e4ecc24ae853/ce0899ce5196a8e421a6ed74d2ef6d7c/6296e38a415a39df2da1b04da0a6b9c9/index.m3u8
+#EXTINF:-1,tvg-id="緯來綜合台" tvg-name="緯來綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland1.png" group-title="台湾",緯來綜合台
+http://176868.cloud/759085b37f9d1540ac7296a8f6e3294a/ce0899ce5196a8e421a6ed74d2ef6d7c/d8af86d610751cd05c062c40fd4112c1/index.m3u8
+#EXTINF:-1,tvg-id="緯來戲劇台" tvg-name="緯來戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland3.png" group-title="台湾",緯來戲劇台
+http://176868.cloud/381169cc8b67643c373bdc4be75ebb18/ce0899ce5196a8e421a6ed74d2ef6d7c/d495f654245555cb883ad3e16e947f43/index.m3u8
+#EXTINF:-1,tvg-id="緯來日本台" tvg-name="緯來日本台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland5.png" group-title="台湾",緯來日本台
+http://176868.cloud/34b86a45ec0253cae1744ee448c30854/ce0899ce5196a8e421a6ed74d2ef6d7c/5550ed499f41d608dd076d0b0e48015e/index.m3u8
+#EXTINF:-1,tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland2.png" group-title="台湾",緯來電影台
+http://176868.cloud/025d76ba512536a7731344af7f2a4567/ce0899ce5196a8e421a6ed74d2ef6d7c/d8b3cfd683df1c20d3187bb7b4932030/index.m3u8
+#EXTINF:-1,tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/animalplanet.png" group-title="台湾",動物星球
+http://176868.cloud/9f24e83578e2ffd1f4516ad3fc556d2e/ce0899ce5196a8e421a6ed74d2ef6d7c/affac3a893ea76663c6c10a2a8ae4b4c/index.m3u8
+#EXTINF:-1,tvg-id="TLC旅遊生活" tvg-name="TLC旅遊生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TLCTV.png" group-title="台湾",TLC旅遊生活
+http://176868.cloud/b1783f6c3ee2910040b225077f5e0c35/ce0899ce5196a8e421a6ed74d2ef6d7c/206a64db121d01da6a9982c5e30012bd/index.m3u8
+#EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Animax.png" group-title="台湾",ANIMAX
+http://176868.cloud/79a12959751788a3ad587482af8fc319/ce0899ce5196a8e421a6ed74d2ef6d7c/831ccae7ebca870636a2f888b3148b22/index.m3u8
+#EXTINF:-1,tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo1.png" group-title="台湾",MOMO親子台
+http://176868.cloud/34c792dd3d671e92b617fea21a8e622a/ce0899ce5196a8e421a6ed74d2ef6d7c/623c3788911339fbc3642efd7015a001/index.m3u8
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png" group-title="台湾",HBO
+http://176868.cloud/a300d19c5c8e029e52eed1686798acbb/ce0899ce5196a8e421a6ed74d2ef6d7c/aa4b07461e9229c6671661a0269bc078/index.m3u8
+#EXTINF:-1,tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO2.png" group-title="台湾",HBO Hits
+http://176868.cloud/fb3f57e43c8ea43ef7212e7834f9117e/ce0899ce5196a8e421a6ed74d2ef6d7c/8dadaf803ef4262ea03b67edb3bffa7b/index.m3u8
+#EXTINF:-1,tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="台湾",HBO Family
+http://176868.cloud/cfc6c7625834a160ba348a66d049ba14/ce0899ce5196a8e421a6ed74d2ef6d7c/620c7020f97c0a00aba4398427b79075/index.m3u8
+#EXTINF:-1,tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO3.png" group-title="台湾",HBO Signature
+http://176868.cloud/aecc7c73761be0072c930f079880b03c/ce0899ce5196a8e421a6ed74d2ef6d7c/0f2f178506cbb0d478d72d6e562eb801/index.m3u8
+#EXTINF:-1,tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Cinemax.png" group-title="台湾",CINEMAX
+http://176868.cloud/50786ec032abb45ec08cd43b447b4c7c/ce0899ce5196a8e421a6ed74d2ef6d7c/b8bdd6dab9a126dacc2430c596825824/index.m3u8
+#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AXNTV.png" group-title="台湾",AXN
+http://176868.cloud/d52563d4aa9f8f2d76af750049c7743a/ce0899ce5196a8e421a6ed74d2ef6d7c/b4fe34d0307f7c60ec25bb3aed1788df/index.m3u8
+#EXTINF:-1,tvg-id="探索頻道" tvg-name="探索頻道" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/2019_Discovery.png" group-title="台湾",探索頻道
+http://176868.cloud/27a7201f4150714d7f679837206110f3/ce0899ce5196a8e421a6ed74d2ef6d7c/27f0ff9b0c201213b664405e21c1acde/index.m3u8
+#EXTINF:-1,tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="台湾",愛爾達體育1台
+http://176868.cloud/418b6a324d8ff960ac5070085c7d1299/ce0899ce5196a8e421a6ed74d2ef6d7c/b40e37f4d7e1f0364fcc03abb65a87be/index.m3u8
+#EXTINF:-1,tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="台湾",愛爾達體育2台
+http://176868.cloud/9554c27e9bda0460f61cc406c4dfa6d4/ce0899ce5196a8e421a6ed74d2ef6d7c/ef5b787d14ecacb171b8ffa7b57eec93/index.m3u8
+#EXTINF:-1,tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="台湾",愛爾達體育3台
+http://176868.cloud/4ab3b496b747f832637fa47195ce159c/ce0899ce5196a8e421a6ed74d2ef6d7c/cefc4430a1133fc290fd6c1d863a9fc1/index.m3u8
+#EXTINF:-1,tvg-id="愛爾達體育4台" tvg-name="愛爾達體育4台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-ty4.png" group-title="台湾",愛爾達體育4台
+http://176868.cloud/e884c4d2562fed19a593474e2b2bfb6a/ce0899ce5196a8e421a6ed74d2ef6d7c/f71ed0030b35d3def0356f07a8e02a6e/index.m3u8
+#EXTINF:-1,tvg-id="愛爾達影劇台" tvg-name="愛爾達影劇台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-yingju.png" group-title="台湾",愛爾達影劇台
+http://176868.cloud/234abe2e5c7d2545fead1574efc5772c/ce0899ce5196a8e421a6ed74d2ef6d7c/5256ab208421f1adf715ef68534e4ee0/index.m3u8
+#EXTINF:-1,tvg-id="愛爾達綜合台" tvg-name="愛爾達綜合台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-zonghe.png" group-title="台湾",愛爾達綜合台
+http://176868.cloud/82b25a4562628bfac2e052620a4515b3/ce0899ce5196a8e421a6ed74d2ef6d7c/913968fc66c580da809baff5bf9d8260/index.m3u8
+#EXTINF:-1,tvg-id="愛爾達日韓台" tvg-name="愛爾達日韓台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-rihan.png" group-title="台湾",愛爾達日韓台
+http://176868.cloud/33ba62f99c23ce7e62986b71ed705263/ce0899ce5196a8e421a6ed74d2ef6d7c/a13a6e1cdbb3e24d55c9a29e71219769/index.m3u8
+#EXTINF:-1,tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-yule.png" group-title="台湾",愛爾達娛樂台
+http://176868.cloud/7e1add6bbb35bd523ad504c9dc0036ff/ce0899ce5196a8e421a6ed74d2ef6d7c/7d843ee4b7b12df874779b8371fb5ee4/index.m3u8
+#EXTINF:-1,tvg-id="愛爾達體育MAX1台" tvg-name="愛爾達體育MAX1台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX1.png" group-title="台湾",愛爾達體育MAX1台
+http://176868.cloud/83084801a9eb161c2c8026d70b816d34/ce0899ce5196a8e421a6ed74d2ef6d7c/80f0ff26ba5fc08e57edf171eeab7865/index.m3u8
+#EXTINF:-1,tvg-id="愛爾達體育MAX2台" tvg-name="愛爾達體育MAX2台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX2.png" group-title="台湾",愛爾達體育MAX2台
+http://176868.cloud/eb427a627742a9e3aaf98fc598b49e9a/ce0899ce5196a8e421a6ed74d2ef6d7c/14e11f666ec339782e1f239a6d837aff/index.m3u8
+#EXTINF:-1,tvg-id="愛爾達體育MAX3台" tvg-name="愛爾達體育MAX3台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX3.png" group-title="台湾",愛爾達體育MAX3台
+http://176868.cloud/b980bc506306c67bbd97a6fb47f576cd/ce0899ce5196a8e421a6ed74d2ef6d7c/d9ff5fa3ca9dae39176ff06b3a19043c/index.m3u8
+#EXTINF:-1,tvg-id="愛爾達體育MAX4台" tvg-name="愛爾達體育MAX4台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX4.png" group-title="台湾",愛爾達體育MAX4台
+http://176868.cloud/9dcd592a33631c34eb3622d8e15fcc37/ce0899ce5196a8e421a6ed74d2ef6d7c/c1ce5700af5d9f1cdecf09b992471c79/index.m3u8
+#EXTINF:-1,tvg-id="愛爾達體育MAX5台" tvg-name="愛爾達體育MAX5台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX5.png" group-title="台湾",愛爾達體育MAX5台
+http://176868.cloud/2197e0c8dd5da53d8c2002be64be5c45/ce0899ce5196a8e421a6ed74d2ef6d7c/67a2e2fd6ec5a04a009711090e903189/index.m3u8
+#EXTINF:-1,tvg-id="愛爾達體育MAX6台" tvg-name="愛爾達體育MAX6台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX6.png" group-title="台湾",愛爾達體育MAX6台
+http://176868.cloud/3d7f0049bc71b55400357dbd9b44ab8d/ce0899ce5196a8e421a6ed74d2ef6d7c/5f9b3d6a656ca57dd6b8c080a10a4799/index.m3u8
+#EXTINF:-1,tvg-id="愛爾達體育MAX7台" tvg-name="愛爾達體育MAX7台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX7.png" group-title="台湾",愛爾達體育MAX7台
+http://176868.cloud/b23e467379331f3bd0c12060f7361b10/ce0899ce5196a8e421a6ed74d2ef6d7c/a19eca8da11ff8d54f9cf3707026ec2c/index.m3u8
+#EXTINF:-1,tvg-id="愛爾達體育MAX8台" tvg-name="愛爾達體育MAX8台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX8.png" group-title="台湾",愛爾達體育MAX8台
+http://176868.cloud/aa34d50c8c71ea709e8ff63a41195f98/ce0899ce5196a8e421a6ed74d2ef6d7c/16a721db4260f6e23c9fcd95fba2d1e0/index.m3u8
+#EXTINF:-1,tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BBC2.png" group-title="台湾",BBC Earth
+http://176868.cloud/0d47c54bd3ab6e814f023f7e4f1ed496/ce0899ce5196a8e421a6ed74d2ef6d7c/9340416a69d59e07df140d6c2126d672/index.m3u8
+#EXTINF:-1,tvg-id="Discovery EVE" tvg-name="Discovery EVE" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/eve.png" group-title="台湾",Discovery EVE
+http://176868.cloud/1643f2799f6ba6545405f8c33fa50656/ce0899ce5196a8e421a6ed74d2ef6d7c/3e9a4dc017c7db1b607518dee6d94d55/index.m3u8
+#EXTINF:-1,tvg-id="Discovery 科學台" tvg-name="Discovery 科學台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/Discovery_Science.png" group-title="台湾",Discovery 科學台
+http://176868.cloud/8b0c6072c85558b62c59df20efd871fc/ce0899ce5196a8e421a6ed74d2ef6d7c/37347c4afa57740e6f027ab7dc340fbe/index.m3u8
+#EXTINF:-1,tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BBC3.png" group-title="台湾",BBC Lifestyle
+http://176868.cloud/3c5f36fc9ad0b5ecc9efdb064ef124d9/ce0899ce5196a8e421a6ed74d2ef6d7c/741d65a085ebd44a706c60b245831603/index.m3u8
+#EXTINF:-1,tvg-id="Discovery DMAX" tvg-name="Discovery DMAX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/DMAX.png" group-title="台湾",Discovery DMAX
+http://176868.cloud/62158ef1e5fc0cec94dbf951857fe74a/ce0899ce5196a8e421a6ed74d2ef6d7c/397dc244b7f97a4e995fe335194a5673/index.m3u8
+#EXTINF:-1,tvg-id="HGTV居家樂活頻道" tvg-name="HGTV居家樂活頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HGTV.png" group-title="台湾",HGTV居家樂活頻道
+http://176868.cloud/60bd1fc7144628c052db44b2fdf0e670/ce0899ce5196a8e421a6ed74d2ef6d7c/71582fc41bff875ccf283680a3698396/index.m3u8
 
 
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Phoenix2.png" group-title="新闻",凤凰卫视资讯台
