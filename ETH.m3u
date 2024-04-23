@@ -55,7 +55,7 @@ http://176868.cloud/025d76ba512536a7731344af7f2a4567/ce0899ce5196a8e421a6ed74d2e
 #EXTINF:-1,tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland2.png" group-title="台湾",緯來電影台
 http://176868.cloud/d920c18cd63530de79d62ea064d0a106/ce0899ce5196a8e421a6ed74d2ef6d7c/3a3dc6abbfd332170c6bc976e4a9f6c0/index.m3u8
 #EXTINF:-1,tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/animalplanet.png" group-title="台湾",動物星球
-http://176868.cloud/b1783f6c3ee2910040b225077f5e0c35/ce0899ce5196a8e421a6ed74d2ef6d7c/206a64db121d01da6a9982c5e30012bd/index.m3u8
+http://176868.cloud/0d8b29fe82d0d45f97f693e95608e8b7/ce0899ce5196a8e421a6ed74d2ef6d7c/2c6bb7c32edb1bcb96bda032b24b5e80/index.m3u8
 #EXTINF:-1,tvg-id="TLC旅遊生活" tvg-name="TLC旅遊生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TLCTV.png" group-title="台湾",TLC旅遊生活
 http://176868.cloud/bcf9f41c998ac5650a8dbfa782cd852f/ce0899ce5196a8e421a6ed74d2ef6d7c/f030ac402d1025d82e2307f25c108d99/index.m3u8
 #EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Animax.png" group-title="台湾",ANIMAX
@@ -76,6 +76,8 @@ http://176868.cloud/50786ec032abb45ec08cd43b447b4c7c/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/27a7201f4150714d7f679837206110f3/ce0899ce5196a8e421a6ed74d2ef6d7c/27f0ff9b0c201213b664405e21c1acde/index.m3u8
 #EXTINF:-1,tvg-id="探索頻道" tvg-name="探索頻道" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/2019_Discovery.png" group-title="台湾",探索頻道
 http://176868.cloud/8c89375ed662adcf87b68d540bc2ae25/ce0899ce5196a8e421a6ed74d2ef6d7c/591be883f658dc834c9d089367332c46/index.m3u8
+#EXTINF:-1,tvg-id="探索頻道 SG" tvg-name="探索頻道 SG" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/2019_Discovery.png" group-title="台湾",探索頻道 SG
+http://176868.cloud/7722cc75183206ed32d906fd02633323/ce0899ce5196a8e421a6ed74d2ef6d7c/a4f1ae0fa6d6d5845b22072a9baf06d5/index.m3u8
 #EXTINF:-1,tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="台湾",愛爾達體育1台
 http://176868.cloud/93ce04034279a27d1260b232bf5dc883/ce0899ce5196a8e421a6ed74d2ef6d7c/56fb12d0fa4d7bee5180993b775c94c4/index.m3u8
 #EXTINF:-1,tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="台湾",愛爾達體育2台
@@ -191,7 +193,7 @@ http://176868.cloud/625b896d540c24e2186ac55c47e195b8/ce0899ce5196a8e421a6ed74d2e
 #EXTINF:-1,tvg-id="KIX" tvg-name="KIX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/KixTV.png" group-title="香港",KIX
 http://176868.cloud/d6e1d9c665179a8398a3d6056db63983/ce0899ce5196a8e421a6ed74d2ef6d7c/36c0c95ffcf6fe1ca0ee023ca1a279fb/index.m3u8
 #EXTINF:-1,tvg-id="星河台 (粤)" tvg-name="星河台 (粤)" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/xinghe.png" group-title="香港",星河台 (粤)
-http://176868.cloud/143654ee772c8e5bc633cb66fbafc0d2/ce0899ce5196a8e421a6ed74d2ef6d7c/b03914b834bb5f3b63e4f53fc70a5812/index.m3u8
+http://176868.cloud/86b7ef95661f8f4a420d0dd6f0155f0a/ce0899ce5196a8e421a6ed74d2ef6d7c/c6d15aa03ec663cf12cc93fdf94c94a2/index.m3u8
 #EXTINF:-1,tvg-id="星河台 (普)" tvg-name="星河台 (普)" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/xinghe.png" group-title="香港",星河台 (普)
 http://176868.cloud/aaa5420772bd035d2012945d8988159e/ce0899ce5196a8e421a6ed74d2ef6d7c/6368f6ab5df1c64aba501f8046bb6832/index.m3u8
 #EXTINF:-1,tvg-id="功夫台 (粵)" tvg-name="功夫台 (粵)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB15.png" group-title="香港",功夫台 (粵)
@@ -243,20 +245,13 @@ http://176868.cloud/f12fc9c013656dcc54191cbbd76cdc8a/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/4be33d65992f4e964521c9bf15a4882f/ce0899ce5196a8e421a6ed74d2ef6d7c/97b550c09e94618d0ae200ddeba9eaa2/index.m3u8
 #EXTINF:-1,tvg-id="Astro AOD (普)" tvg-name="Astro AOD (普)" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Astro_AOD.png" group-title="东南亚",Astro AOD (普)
 http://176868.cloud/848669e5e7debbea42045a60893d951b/ce0899ce5196a8e421a6ed74d2ef6d7c/d1d8a24901849adae87b7e1677b99b42/index.m3u8
-#EXTINF:-1,tvg-id="Astro 欢喜台" tvg-name="Astro 欢喜台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Astro_AOD.png" group-title="东南亚",Astro 欢喜台
-
+#EXTINF:-1,tvg-id="Astro 欢喜台" tvg-name="Astro 欢喜台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Astro_HHD.png" group-title="东南亚",Astro 欢喜台
+http://176868.cloud/68e77d08551278710982c8639e6427d2/ce0899ce5196a8e421a6ed74d2ef6d7c/37ddc138995be7b1d5fea4c284ee06f5/index.m3u8
 
 
 http://176868.cloud/7aeaef55c22645d51398a2b962660b98/ce0899ce5196a8e421a6ed74d2ef6d7c/c7707cc7b036cf5c4e1cccd83bcfb758/index.m3u8 #EXTINF:-1 group-title="CN",[CN] 4412 廣東珠江 
 
-http://176868.cloud/471ba2b3f8a5b8fc8c5bfe96434b30fb/ce0899ce5196a8e421a6ed74d2ef6d7c/924ddf22f4d9e11f90a21402d86c1e3b/index.m3u8 #EXTINF:-1 group-title="MY",[astro] 305  
-http://176868.cloud/33c029ffa19a04e326e18c71a9e657dd/ce0899ce5196a8e421a6ed74d2ef6d7c/92c4966ade9d7d095045dc9e116813bb/index.m3u8 #EXTINF:-1 group-title="MY",[astro] 306  
-http://176868.cloud/40da0d7cf999621daec2cdbff404c6cf/ce0899ce5196a8e421a6ed74d2ef6d7c/a635b7846861064dae3988fc33c3a968/index.m3u8 #EXTINF:-1 group-title="MY",[astro] 308 
-http://176868.cloud/246e09de9eb8e9df40ea40f4c619b6df/ce0899ce5196a8e421a6ed74d2ef6d7c/82d276fff38d09af31b7070ec4763f37/index.m3u8 #EXTINF:-1 group-title="MY",[astro] 309  
-http://176868.cloud/65034407424a9844e4e54cb29a959d59/ce0899ce5196a8e421a6ed74d2ef6d7c/ac647f3e2d5ba906d6fc20ac50623c10/index.m3u8 #EXTINF:-1 group-title="MY",[astro] 309  
-http://176868.cloud/4c5659a1466dc2b85479cf087c82e7eb/ce0899ce5196a8e421a6ed74d2ef6d7c/d69c05db9d8674c43ef438b46f78cf7e/index.m3u8 #EXTINF:-1 group-title="MY",[astro] 311  
-http://176868.cloud/4be33d65992f4e964521c9bf15a4882f/ce0899ce5196a8e421a6ed74d2ef6d7c/97b550c09e94618d0ae200ddeba9eaa2/index.m3u8 #EXTINF:-1 group-title="MY",[astro] 311  
-http://176868.cloud/5dcd36f13c8de3f0a5ca898dfcd5a44d/ce0899ce5196a8e421a6ed74d2ef6d7c/e4b169e1edc17158a355e41879f0d18b/index.m3u8 #EXTINF:-1 group-title="MY",[astro] 333 
+
 
 http://176868.cloud/04ec48208a836cf6070b14e7f7f77997/ce0899ce5196a8e421a6ed74d2ef6d7c/2b9b2401a60301b09b118336b0ec4b85/index.m3u8 #EXTINF:-1 group-title="SG",[SG] 601 HBO HD 
 http://176868.cloud/1281802b2593fd093888784d1f0ad3ad/ce0899ce5196a8e421a6ed74d2ef6d7c/847cc9a25ca90399bdc1288bbc91876b/index.m3u8 #EXTINF:-1 group-title="SG",[SG] 603 HBO Signature HD 
