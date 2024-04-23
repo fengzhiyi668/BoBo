@@ -107,6 +107,8 @@ http://176868.cloud/aaa5420772bd035d2012945d8988159e/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/4d1cbca92243153b5e6a99638e6d0cf0/ce0899ce5196a8e421a6ed74d2ef6d7c/a628246e85e687e676476f2361613718/index.m3u8
 #EXTINF:-1,tvg-id="功夫台 (普)" tvg-name="功夫台 (普)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB15.png" group-title="香港",功夫台 (普)
 http://176868.cloud/e03031c6941701e8119893397f5b22d5/ce0899ce5196a8e421a6ed74d2ef6d7c/0ea09b611bf96fd5a43c542a5a7c380c/index.m3u8
+#EXTINF:-1,tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/133%20%E9%9D%96%E6%B4%8B%E6%88%B2%E5%8A%87%E5%8F%B0.png" group-title="香港",靖洋戲劇台
+http://176868.cloud/48ff2a6f9ebee343f921f3e1aeaf7cfd/ce0899ce5196a8e421a6ed74d2ef6d7c/e841e188a9b7319652c3d37272226068/index.m3u8
 #EXTINF:-1,tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/ViuTVsix-logo.svg.png" group-title="香港",ViuTVsix
 http://176868.cloud/82e2edd0ce0f90a991353ab08a64efc5/ce0899ce5196a8e421a6ed74d2ef6d7c/55de6627315700ae5a0f9833e7677dff/index.m3u8
 #EXTINF:-1,tvg-id="ViuTV (ch1)" tvg-name="ViuTV (ch1)" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/ViuTV_logo.svg.png" group-title="香港",ViuTV (ch1)
@@ -171,24 +173,24 @@ http://176868.cloud/fe3dd98f8c0257dee41e96725e74e357/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/b2308f7e7e441a91da22b6f1ddd7fe1e/ce0899ce5196a8e421a6ed74d2ef6d7c/bed363000ef3b4e3e9c14eef99f13a88/index.m3u8
 #EXTINF:-1,tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC4.png" group-title="台湾",東森洋片台
 http://176868.cloud/4c3855a6b7617b3bc9ea2d7f71f36564/ce0899ce5196a8e421a6ed74d2ef6d7c/12447736998bd775f346418a79b7af81/index.m3u8
-#EXTINF:-1,tvg-id="八大綜合台" tvg-name="八大綜合台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/GTV_Variety_logo_2018.png" group-title="台湾",八大綜合台
+#EXTINF:-1,tvg-id="八大綜合台" tvg-name="八大綜合台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88.png" group-title="台湾",八大綜合台
 http://176868.cloud/361cb46c201c5e29a959e972e8530ecc/ce0899ce5196a8e421a6ed74d2ef6d7c/b377b9057edded88791ae220d0b106f0/index.m3u8
-#EXTINF:-1,tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/GTV_One_logo_2018_01.png" group-title="台湾",八大第一台 
+#EXTINF:-1,tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/%5BTW%5D%20%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80%E5%8F%B0.png" group-title="台湾",八大第一台 
 http://176868.cloud/0d6d78def945cdd8c1dcc882b8158845/ce0899ce5196a8e421a6ed74d2ef6d7c/821abd7ab9832a0434b8e37750bcd72e/index.m3u8
-#EXTINF:-1,tvg-id="八大娛樂台" tvg-name="八大娛樂台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/GTV_Entertainment_logo_2018.png" group-title="台湾",八大娛樂台 
+#EXTINF:-1,tvg-id="八大娛樂台" tvg-name="八大娛樂台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/%5BTW%5D%20%E5%85%AB%E5%A4%A7%E5%A8%9B%E6%A8%82.png" group-title="台湾",八大娛樂台 
 http://176868.cloud/dd401505f5c590f47af6d7760d09f4d6/ce0899ce5196a8e421a6ed74d2ef6d7c/98d37d1de77ef414e1189d946c277149/index.m3u8
-#EXTINF:-1,tvg-id="八大戲劇台" tvg-name="八大戲劇台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/GTV_Drama_logo_2018.png" group-title="台湾",八大戲劇台 
+#EXTINF:-1,tvg-id="八大戲劇台" tvg-name="八大戲劇台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/%5BTW-I%5D%2017%20%E5%85%AB%E5%A4%A7%E6%88%B2%E5%8A%87%E5%8F%B0.png" group-title="台湾",八大戲劇台 
 http://176868.cloud/74b31600ef740730f928db4600988cba/ce0899ce5196a8e421a6ed74d2ef6d7c/976696ab37365fc0d103e65f2d3161da/index.m3u8
-#EXTINF:-1,tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/bada%20jingcai.png" group-title="台湾",八大精彩台 
+#EXTINF:-1,tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/%5BTW-II%5D%20038%20%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0.png" group-title="台湾",八大精彩台 
 http://176868.cloud/6f28a2c4c7f613969e6487eed16a9a6a/ce0899ce5196a8e421a6ed74d2ef6d7c/ac70a5c4590b21aa4290d9558d20df90/index.m3u8
-#EXTINF:-1,tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/bada%20zongyi.png" group-title="台湾",八大綜藝台
+#EXTINF:-1,tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/015%20%E5%85%AB%E5%A4%A7%E7%B6%9C%E8%97%9D%E5%8F%B0.png" group-title="台湾",八大綜藝台
 http://176868.cloud/7f5fecd527aa0eed1821051e6d8cc7ac/ce0899ce5196a8e421a6ed74d2ef6d7c/9fb1e0e04c12258dd604c69148fc372a/index.m3u8
+#EXTINF:-1,tvg-id="東風37" tvg-name="東風37" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfeng.png" group-title="台湾",東風37
+http://176868.cloud/759085b37f9d1540ac7296a8f6e3294a/ce0899ce5196a8e421a6ed74d2ef6d7c/d8af86d610751cd05c062c40fd4112c1/index.m3u8
 #EXTINF:-1,tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="台湾",緯來體育台
 http://176868.cloud/412df53cb4bfab0272ad99f705cc060e/ce0899ce5196a8e421a6ed74d2ef6d7c/a7178279eb9b4c2208a12244cb9eb1cb/index.m3u8
 #EXTINF:-1,tvg-id="緯來育樂台" tvg-name="緯來育樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland6.png" group-title="台湾",緯來育樂台
 http://176868.cloud/abdcf76645f96fbf3be5e4ecc24ae853/ce0899ce5196a8e421a6ed74d2ef6d7c/6296e38a415a39df2da1b04da0a6b9c9/index.m3u8
-#EXTINF:-1,tvg-id="東風37" tvg-name="東風37" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfeng.png" group-title="台湾",東風37
-http://176868.cloud/759085b37f9d1540ac7296a8f6e3294a/ce0899ce5196a8e421a6ed74d2ef6d7c/d8af86d610751cd05c062c40fd4112c1/index.m3u8
 #EXTINF:-1,tvg-id="緯來綜合台" tvg-name="緯來綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland1.png" group-title="台湾",緯來綜合台
 http://176868.cloud/381169cc8b67643c373bdc4be75ebb18/ce0899ce5196a8e421a6ed74d2ef6d7c/d495f654245555cb883ad3e16e947f43/index.m3u8
 #EXTINF:-1,tvg-id="緯來戲劇台" tvg-name="緯來戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland3.png" group-title="台湾",緯來戲劇台
