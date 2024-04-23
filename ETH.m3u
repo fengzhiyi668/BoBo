@@ -1,6 +1,6 @@
-#EXTINF:-1,tvg-id="龍祥電影" tvg-name="龍祥電影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="台湾",龍祥電影
+#EXTINF:-1,tvg-id="龍祥電影台" tvg-name="龍祥電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="台湾",龍祥電影台
 http://176868.cloud/9e00dca2879f7a423c9f177da08c05ac/ce0899ce5196a8e421a6ed74d2ef6d7c/8bd04ae5cd28d0aa02619bba89ce0967/index.m3u8
-#EXTINF:-1,tvg-id="龍華影劇" tvg-name="龍華影劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV3.png" group-title="台湾",龍華影劇
+#EXTINF:-1,tvg-id="龍華影劇台" tvg-name="龍華影劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV3.png" group-title="台湾",龍華影劇台
 http://176868.cloud/9d8737d36751571a133a851bd7227559/ce0899ce5196a8e421a6ed74d2ef6d7c/e0750af4089065afb7e0bce3852ab6d4/index.m3u8
 #EXTINF:-1,tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV5.png" group-title="台湾",龍華日韓台
 http://176868.cloud/f78a600e002b2786c71352309ea5ea41/ce0899ce5196a8e421a6ed74d2ef6d7c/f70482ea86c730b5f2f004e69f0433a8/index.m3u8
@@ -12,6 +12,10 @@ http://176868.cloud/b897e220238e13d0e42e8ba78a95f7a4/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/3ec339871adcae744690b7c4961223c5/ce0899ce5196a8e421a6ed74d2ef6d7c/d032951999a61cd19e820bf3c174be6c/index.m3u8
 #EXTINF:-1,tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV7.png" group-title="台湾",龍華經典台
 http://176868.cloud/19bd029276c684b31a69663ec3b9a461/ce0899ce5196a8e421a6ed74d2ef6d7c/f9c559a85da709b2e5a3918ce31c8300/index.m3u8
+#EXTINF:-1,tvg-id="龍華洋片台" tvg-name="龍華洋片台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV2.png" group-title="台湾",龍華洋片台
+http://176868.cloud/b8f64c4ad0d31764c1ee5b2936c28da7/ce0899ce5196a8e421a6ed74d2ef6d7c/c19f6bd83b6adbcd3433d2cf3bdeced9/index.m3u8
+#EXTINF:-1,tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV8.png" group-title="台湾",龍華卡通台
+http://176868.cloud/14979937076e8423963489aad30c1711/ce0899ce5196a8e421a6ed74d2ef6d7c/08a9cbad2e14057cd257a64abcf875a5/index.m3u8
 #EXTINF:-1,tvg-id="東森幼幼" tvg-name="東森幼幼" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC10.png" group-title="台湾",東森幼幼
 http://176868.cloud/5e94c5f3875a05d7561d2646ad247ce1/ce0899ce5196a8e421a6ed74d2ef6d7c/6cea9898c79a851cc13c84b2dacb3d6a/index.m3u8
 #EXTINF:-1,tvg-id="東森綜合台" tvg-name="東森綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC1.png" group-title="台湾",東森綜合台
@@ -146,13 +150,9 @@ http://176868.cloud/75fbae705687369843a94abf45805ab8/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/b04aaf9e3a39e9d19b005b350bd00053/ce0899ce5196a8e421a6ed74d2ef6d7c/31c55629705a164811cded47508669cc/index.m3u8
 #EXTINF:-1,tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/History1.png" group-title="台湾",History 歷史頻道
 http://176868.cloud/ef3cee7fe03f376d3da4951774b113f2/ce0899ce5196a8e421a6ed74d2ef6d7c/7cd4e818cee95634f2510536dfdc4f85/index.m3u8
+#EXTINF:-1,tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HITS.png" group-title="台湾",HITS頻道
+http://176868.cloud/d85d34e02a2a9835405654dada67a065/ce0899ce5196a8e421a6ed74d2ef6d7c/3baae7eb47c7869626bef437b5b775a0/index.m3u8
 
-
-
-
-http://176868.cloud/f0932824de0b7688cc77b0174a0bcf9d/ce0899ce5196a8e421a6ed74d2ef6d7c/a12a0e94ebbb8a8d9f4880825b7c4879/index.m3u8 #EXTINF:-1 group-title="TW-IV",117  
-http://176868.cloud/ef3cee7fe03f376d3da4951774b113f2/ce0899ce5196a8e421a6ed74d2ef6d7c/7cd4e818cee95634f2510536dfdc4f85/index.m3u8 #EXTINF:-1 group-title="TW-IV",120  
-http://176868.cloud/b6fc62db8824c89fc7317a52ea0f97ba/ce0899ce5196a8e421a6ed74d2ef6d7c/6f8d468f988be24463c8bbe0b3ff56d2/index.m3u8 #EXTINF:-1 group-title="TW-IV",128 HITS頻道 
 
 http://176868.cloud/c90e5fa7d6bde5c2391847543790e9bc/ce0899ce5196a8e421a6ed74d2ef6d7c/f0c0677bab16cfa486f97e7a3a79d501/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 42 台視 HD 
 http://176868.cloud/48c3d5e5adebbfa9c9611493e30a0800/ce0899ce5196a8e421a6ed74d2ef6d7c/50988b5469900e6b522fbc8bdd2d126f/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 43 中視 HD 
