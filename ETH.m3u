@@ -88,6 +88,8 @@ http://176868.cloud/9f4b351c35c24d253b0cac22ab364d63/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/8bb9815d4ca33adfd8903ed376e98225/ce0899ce5196a8e421a6ed74d2ef6d7c/7dd320260e5bf686b80c13bd4238c763/index.m3u8
 #EXTINF:-1,tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-yule.png" group-title="台湾",愛爾達娛樂台
 http://176868.cloud/30b5714de1803ec0e13dfc0fefd1ad61/ce0899ce5196a8e421a6ed74d2ef6d7c/45b64c6846462df5b3c53f273c3e27f6/index.m3u8
+#EXTINF:-1,tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA10.PNG" group-title="台湾",愛爾達生活旅遊台
+http://176868.cloud/c944d3b693acda1e37011afe87e935f4/ce0899ce5196a8e421a6ed74d2ef6d7c/07f3f830aa818b7ec98db3dff5190d6b/index.m3u8
 #EXTINF:-1,tvg-id="愛爾達體育MAX1台" tvg-name="愛爾達體育MAX1台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX1.png" group-title="台湾",愛爾達體育MAX1台
 http://176868.cloud/eb427a627742a9e3aaf98fc598b49e9a/ce0899ce5196a8e421a6ed74d2ef6d7c/14e11f666ec339782e1f239a6d837aff/index.m3u8
 #EXTINF:-1,tvg-id="愛爾達體育MAX2台" tvg-name="愛爾達體育MAX2台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX2.png" group-title="台湾",愛爾達體育MAX2台
@@ -122,28 +124,34 @@ http://176868.cloud/029c527a5053991c5a81bc1ce17eab9c/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/1b611b008cfbb0ef2cf3f615988ca1a8/ce0899ce5196a8e421a6ed74d2ef6d7c/050a49e49bcca537e283a0c5a6b47721/index.m3u8
 #EXTINF:-1,tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Rock_Action.png" group-title="台湾",ROCK Action
 http://176868.cloud/234abe2e5c7d2545fead1574efc5772c/ce0899ce5196a8e421a6ed74d2ef6d7c/5256ab208421f1adf715ef68534e4ee0/index.m3u8
-#EXTINF:-1,tvg-id="CNEX紀實頻道" tvg-name="CNEX紀實頻道" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/cnex.PNG" group-title="台湾",CNEX紀實頻道
+#EXTINF:-1,tvg-id="Travel Channel" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TravelChannel.png" group-title="台湾",Travel Channel
+http://176868.cloud/92ad5da14dbdf94f02192d16efee98a0/ce0899ce5196a8e421a6ed74d2ef6d7c/6b6f0332ce073a0d5a973daf5d3bafd8/index.m3u8
+#EXTINF:-1,tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/WarnerTV.png" group-title="台湾",Warner TV
+http://176868.cloud/e7eb0110b1e0af092d47655d394bd45b/ce0899ce5196a8e421a6ed74d2ef6d7c/3320f42a658348027d77f738418cae84/index.m3u8
+#EXTINF:-1,tvg-id="CATCHPLAY電影台" tvg-name="CATCHPLAY電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CatchPlay1.png" group-title="台湾",CATCHPLAY電影台
+http://176868.cloud/aa5a3d59ea3b391e94c74b4c50db7c49/ce0899ce5196a8e421a6ed74d2ef6d7c/8a9ab2e6f73869d1c08c269642634996/index.m3u8
+#EXTINF:-1,tvg-id="NBA體育台" tvg-name="NBA體育台" tvg-logo="" group-title="台湾",NBA體育台
+http://176868.cloud/2928c8685c109e69237fba690826ac28/ce0899ce5196a8e421a6ed74d2ef6d7c/3077f9f8766f2d218c246a66251d5f9d/index.m3u8
+#EXTINF:-1,tvg-id="i-Fun动漫台" tvg-name="i-Fun动漫台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ifun1.png" group-title="台湾",i-Fun动漫台
+http://176868.cloud/c884ae673ca6888497d326f30ce99cf7/ce0899ce5196a8e421a6ed74d2ef6d7c/c4545f8b3143291fd406465b96c950d1/index.m3u8
+#EXTINF:-1,tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Global-Trekker_logo_primary.png" group-title="台湾",Global Trekker
+http://176868.cloud/6fa70fbf717aaf53f0badf32228a0670/ce0899ce5196a8e421a6ed74d2ef6d7c/af7611b064437143103c2f08e545afd0/index.m3u8
+#EXTINF:-1,tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/nice%20bingo.png" group-title="台湾",靖洋卡通台
+http://176868.cloud/be5bee07e959e8cfe2d38f3df257473b/ce0899ce5196a8e421a6ed74d2ef6d7c/1e7ab418b3a6e1e64e9a864e5bed8460/index.m3u8
+#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV7.png" group-title="台湾",靖天卡通台  
+http://176868.cloud/8e3e94b53bc0ce9f5572ee5ec8e01d47/ce0899ce5196a8e421a6ed74d2ef6d7c/079838044d27b00c90d71e465ecbf709/index.m3u8
+#EXTINF:-1,tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/MTV_Live_2021_logo.svg.png" group-title="台湾",MTV Live HD 
+http://176868.cloud/75fbae705687369843a94abf45805ab8/ce0899ce5196a8e421a6ed74d2ef6d7c/5695b1369f8cc6ea39b9149a7b170876/index.m3u8
+#EXTINF:-1,tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/love%20nature.png" group-title="台湾",Love Nature
+http://176868.cloud/b04aaf9e3a39e9d19b005b350bd00053/ce0899ce5196a8e421a6ed74d2ef6d7c/31c55629705a164811cded47508669cc/index.m3u8
+#EXTINF:-1,tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/History1.png" group-title="台湾",History 歷史頻道
+http://176868.cloud/ef3cee7fe03f376d3da4951774b113f2/ce0899ce5196a8e421a6ed74d2ef6d7c/7cd4e818cee95634f2510536dfdc4f85/index.m3u8
 
 
 
 
-
-
-http://176868.cloud/9f4b351c35c24d253b0cac22ab364d63/ce0899ce5196a8e421a6ed74d2ef6d7c/452414c18bdc43cb858d04ad7bfe71c9/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 96 CNEX紀實頻道 
-http://176868.cloud/5a38c28d5352fe8b84b43321e0d0e597/ce0899ce5196a8e421a6ed74d2ef6d7c/1ad03625dd6c05fa5d1d47379501ebfa/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 97 Travel Channel 
-http://176868.cloud/791849eeaff3cdd37f825c2f22f06566/ce0899ce5196a8e421a6ed74d2ef6d7c/53a545936693869fa21a6c02918a3325/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 100 ROCK Extreme 
-http://176868.cloud/b8697c896c7858992d0408e8aaaf6f3a/ce0899ce5196a8e421a6ed74d2ef6d7c/7a86e18fb7039a1d21e55e98dd606825/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 101 Warner TV 
-tp://176868.cloud/2ff12b7cce51fdb72cabe747d69d0380/ce0899ce5196a8e421a6ed74d2ef6d7c/1dd46afbddebba1187cb8c18fb472ab7/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 110 amc最愛電影 
-http://176868.cloud/334cd66e6e352d6e589aedaf3bb90995/ce0899ce5196a8e421a6ed74d2ef6d7c/64bdf9a59495f9297e051a20c18a7eb7/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 111 CATCHPLAY電影台 
-http://176868.cloud/567052ddabfbf9ca2b67ce0cfb2ecbc9/ce0899ce5196a8e421a6ed74d2ef6d7c/ad1839425561d037cb1dfdb4b100680a/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 113 NBA體育台 
-http://176868.cloud/b487253dc1a394527286682911758b25/ce0899ce5196a8e421a6ed74d2ef6d7c/d5be086913ce3d4a8689da32fddb7836/index.m3u8 #EXTINF:-1 group-title="TW-IV",038 i-Fun動漫台 
-http://176868.cloud/17d0790c1b24234697fa5d683d58fb1c/ce0899ce5196a8e421a6ed74d2ef6d7c/beac3522024eb93e024342ed218b39ea/index.m3u8 #EXTINF:-1 group-title="TW-II",[TW-II] 130 Global Trekker 
-http://176868.cloud/14979937076e8423963489aad30c1711/ce0899ce5196a8e421a6ed74d2ef6d7c/08a9cbad2e14057cd257a64abcf875a5/index.m3u8 #EXTINF:-1 group-title="TW-III",[TW-III] 503 靖洋卡通台 
-http://176868.cloud/be5bee07e959e8cfe2d38f3df257473b/ce0899ce5196a8e421a6ed74d2ef6d7c/1e7ab418b3a6e1e64e9a864e5bed8460/index.m3u8 #EXTINF:-1 group-title="TW-III",[TW-III] 504 靖天卡通台 
-http://176868.cloud/fa9e64401bdcd5b81875bf835fc26f6f/ce0899ce5196a8e421a6ed74d2ef6d7c/ec8839b6f6807a40f6046c96b1220f4f/index.m3u8 #EXTINF:-1 group-title="TW-IV",084 MTV Live HD 音樂頻道 
-http://176868.cloud/0495dd4c37fc720026550e20bd39f22c/ce0899ce5196a8e421a6ed74d2ef6d7c/d4d2553c7266d9df5426d4e63552a60e/index.m3u8 #EXTINF:-1 group-title="TW-IV",116 Love Nature 
-http://176868.cloud/f0932824de0b7688cc77b0174a0bcf9d/ce0899ce5196a8e421a6ed74d2ef6d7c/a12a0e94ebbb8a8d9f4880825b7c4879/index.m3u8 #EXTINF:-1 group-title="TW-IV",117 History 歷史頻道 
-http://176868.cloud/ef3cee7fe03f376d3da4951774b113f2/ce0899ce5196a8e421a6ed74d2ef6d7c/7cd4e818cee95634f2510536dfdc4f85/index.m3u8 #EXTINF:-1 group-title="TW-IV",120 愛爾達生活旅遊台 
+http://176868.cloud/f0932824de0b7688cc77b0174a0bcf9d/ce0899ce5196a8e421a6ed74d2ef6d7c/a12a0e94ebbb8a8d9f4880825b7c4879/index.m3u8 #EXTINF:-1 group-title="TW-IV",117  
+http://176868.cloud/ef3cee7fe03f376d3da4951774b113f2/ce0899ce5196a8e421a6ed74d2ef6d7c/7cd4e818cee95634f2510536dfdc4f85/index.m3u8 #EXTINF:-1 group-title="TW-IV",120  
 http://176868.cloud/b6fc62db8824c89fc7317a52ea0f97ba/ce0899ce5196a8e421a6ed74d2ef6d7c/6f8d468f988be24463c8bbe0b3ff56d2/index.m3u8 #EXTINF:-1 group-title="TW-IV",128 HITS頻道 
 
 http://176868.cloud/c90e5fa7d6bde5c2391847543790e9bc/ce0899ce5196a8e421a6ed74d2ef6d7c/f0c0677bab16cfa486f97e7a3a79d501/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 42 台視 HD 
