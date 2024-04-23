@@ -228,6 +228,10 @@ http://176868.cloud/4c7316315b4b0e1b737ca343655e542d/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/b27ea6acca7c2ab7727554ce9a252d28/ce0899ce5196a8e421a6ed74d2ef6d7c/68c4292f8809eea8fbb8ce534f64e2e7/index.m3u8
 #EXTINF:-1,tvg-id="TVB Pearl Drama" tvg-name="TVB Pearl Drama" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/tvb.png" group-title="香港",TVB Pearl Drama
 http://176868.cloud/979f4bb1f1060893af259f0b5a859bbd/ce0899ce5196a8e421a6ed74d2ef6d7c/ca20c88238fc66bbb0156dd124d6cad8/index.m3u8
+#EXTINF:-1,tvg-id="Channel [V]" tvg-name="Channel [V]" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ChannelV.png" group-title="香港",Channel [V]
+http://176868.cloud/8a56d208888b793acd05054a51d87c2e/ce0899ce5196a8e421a6ed74d2ef6d7c/69fa6b543b21685fb253d1afa5b2c5f5/index.m3u8
+#EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Startv.png" group-title="香港",星空卫视
+http://176868.cloud/46c2ec3059a5bd9c4fcb926228d4ad54/ce0899ce5196a8e421a6ed74d2ef6d7c/60b0cbe022afc1f8819488197d5b688f/index.m3u8
 
 
 
@@ -249,7 +253,7 @@ http://176868.cloud/848669e5e7debbea42045a60893d951b/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/68e77d08551278710982c8639e6427d2/ce0899ce5196a8e421a6ed74d2ef6d7c/37ddc138995be7b1d5fea4c284ee06f5/index.m3u8
 
 
-http://176868.cloud/7aeaef55c22645d51398a2b962660b98/ce0899ce5196a8e421a6ed74d2ef6d7c/c7707cc7b036cf5c4e1cccd83bcfb758/index.m3u8 #EXTINF:-1 group-title="CN",[CN] 4412 廣東珠江 
+
 
 
 
@@ -273,7 +277,7 @@ http://176868.cloud/9f1690824451700eafe7b72d0a0071eb/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/7722cc75183206ed32d906fd02633323/ce0899ce5196a8e421a6ed74d2ef6d7c/a4f1ae0fa6d6d5845b22072a9baf06d5/index.m3u8 #EXTINF:-1 group-title="SG-I",[SG-I] 879 DMAX 
 http://176868.cloud/756ec2d7bd0fa69efb66ea45f86d0bed/ce0899ce5196a8e421a6ed74d2ef6d7c/6c01bf983811a56551ca452a06191f62/index.m3u8 #EXTINF:-1 group-title="SG-I",[SG-I] 880 Discovery Asia 
 http://176868.cloud/253cb32bd9d63fde4f11da306ecb67db/ce0899ce5196a8e421a6ed74d2ef6d7c/2b4745b9e7ff8bfc877382a96deaad4e/index.m3u8 #EXTINF:-1 group-title="SG-I",[SG-I] 882 DSCI 科学
-http://176868.cloud/cbc700053202123b1ba125a3b947ca45/ce0899ce5196a8e421a6ed74d2ef6d7c/795daf3402e08442175ce61c0ddb4071/index.m3u8 #EXTINF:-1 group-title="SG-I",[SG-I] 887 Channel [V] China 
+http://176868.cloud/cbc700053202123b1ba125a3b947ca45/ce0899ce5196a8e421a6ed74d2ef6d7c/795daf3402e08442175ce61c0ddb4071/index.m3u8 #EXTINF:-1 group-title="SG-I",[SG-I] 887  China 
 http://176868.cloud/f54e19d0c5aa9cb24e60ef4346704b16/ce0899ce5196a8e421a6ed74d2ef6d7c/e0cd81616234e4a638fae145c4bc6751/index.m3u8 #EXTINF:-1 group-title="SG-I",[SG-I] 895 Xing Kong International 
 
 
