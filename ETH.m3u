@@ -152,26 +152,9 @@ http://176868.cloud/b04aaf9e3a39e9d19b005b350bd00053/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/ef3cee7fe03f376d3da4951774b113f2/ce0899ce5196a8e421a6ed74d2ef6d7c/7cd4e818cee95634f2510536dfdc4f85/index.m3u8
 #EXTINF:-1,tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HITS.png" group-title="台湾",HITS頻道
 http://176868.cloud/d85d34e02a2a9835405654dada67a065/ce0899ce5196a8e421a6ed74d2ef6d7c/3baae7eb47c7869626bef437b5b775a0/index.m3u8
-
-
-http://176868.cloud/c90e5fa7d6bde5c2391847543790e9bc/ce0899ce5196a8e421a6ed74d2ef6d7c/f0c0677bab16cfa486f97e7a3a79d501/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 42 台視 HD 
-http://176868.cloud/48c3d5e5adebbfa9c9611493e30a0800/ce0899ce5196a8e421a6ed74d2ef6d7c/50988b5469900e6b522fbc8bdd2d126f/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 43 中視 HD 
-http://176868.cloud/2dce1ed84b4f263c2250af0f9c7a2293/ce0899ce5196a8e421a6ed74d2ef6d7c/d8b97e80609c4eb77369956012655543/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 44 華視CTS HD 
-http://176868.cloud/96cbea28403a220a4b15bf4796c71f55/ce0899ce5196a8e421a6ed74d2ef6d7c/7d24eeb4f7d7f08bfb0b4db85a44be4e/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 45 民視 HD 
-http://176868.cloud/73a8312643530b31b9da80bc273a46a9/ce0899ce5196a8e421a6ed74d2ef6d7c/6c9086730c91e2b57225bd9865a16238/index.m3u8 #EXTINF:-1 group-title="TW-I",[TW-I] 46 公視 HD 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,tvg-id="民视 HD" tvg-name="民视 HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV.png" group-title="台湾",民视 HD
+http://176868.cloud/45d8675defc607190c9fd0a95bdecdbe/ce0899ce5196a8e421a6ed74d2ef6d7c/6fc61513ffd91acbc8a8378631be0b2a/index.m3u8
+ 
 
 #EXTINF:-1,tvg-id="爆谷台 (粵)" tvg-name="爆谷台 (粵)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="香港",爆谷台 (粵) 
 http://176868.cloud/5178183013d02a229dcd72f6ab20e121/ce0899ce5196a8e421a6ed74d2ef6d7c/5aff1bcab410e069b92a56e0123fe342/index.m3u8
@@ -181,6 +164,28 @@ http://176868.cloud/8e84ba7d4521814adad9ca95f7db43f8/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/8c9c23f7617996b8e4e921ed5416a174/ce0899ce5196a8e421a6ed74d2ef6d7c/33d42bc4051d0b7005461b897298fcec/index.m3u8 
 #EXTINF:-1,tvg-id="爆谷星影台 (普)" tvg-name="爆谷星影台 (普)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="香港",爆谷星影台 (普)
 http://176868.cloud/29585c4755ce14adae6e4c44e2d7c149/ce0899ce5196a8e421a6ed74d2ef6d7c/79feeeba7831b79ba69f1efb8c9e94f7/index.m3u8 
+#EXTINF:-1,tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png" group-title="香港",千禧經典台
+http://176868.cloud/613545e968f716eec012f3aa38daf64a/ce0899ce5196a8e421a6ed74d2ef6d7c/cbe3faadcb39ba88c4496a73ff9d0fae/index.m3u8
+#EXTINF:-1,tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png" group-title="香港",亞洲劇台
+http://176868.cloud/f026882af88d08c3e17fa7c4f69ae268/ce0899ce5196a8e421a6ed74d2ef6d7c/acf7e1a93ede9221048723b104caf040/index.m3u8
+#EXTINF:-1,tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png" group-title="香港",華語劇台
+http://176868.cloud/8d71dc29a73e07f3d793adbd22c3a2ec/ce0899ce5196a8e421a6ed74d2ef6d7c/33a0e58112f604fd2cdefcd24f5081ef/index.m3u8
+#EXTINF:-1,tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png" group-title="香港",黃金翡翠台 
+http://176868.cloud/226f037fbf0560b429bfc96db750ce30/ce0899ce5196a8e421a6ed74d2ef6d7c/fb047fc22f13a7d0cbd8e0b3068c7f64/index.m3u8
+#EXTINF:-1,tvg-id="兒童台" tvg-name="兒童台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png" group-title="香港",兒童台 
+http://176868.cloud/6e0de4eefc944ed114885106d4563300/ce0899ce5196a8e421a6ed74d2ef6d7c/9865484113e9c2b46c9dd8a77e3727f2/index.m3u8
+#EXTINF:-1,tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/ZooMoo-Kids.png" group-title="香港",ZooMoo
+http://176868.cloud/9d3afe72f82851e1d6bc71c241a316af/ce0899ce5196a8e421a6ed74d2ef6d7c/25069abc36d60420093df090eb863bc4/index.m3u8
+#EXTINF:-1,tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nickelodeon.png" group-title="香港",Nickelodeon
+http://176868.cloud/3a70285dc39a57e4ccaa395bd6078433/ce0899ce5196a8e421a6ed74d2ef6d7c/bc10e09575697bbf186fa15b5c6606f0/index.m3u8
+#EXTINF:-1,tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nickjr.png" group-title="香港",Nick Jr
+http://176868.cloud/5b4bcaa96c48303f653739ca764d9f4d/ce0899ce5196a8e421a6ed74d2ef6d7c/7793d23fc1c4c798b8c8a70002f678f2/index.m3u8
+#EXTINF:-1,tvg-id="美亞電影台 (粵)" tvg-name="美亞電影台 (粵)" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/meiyady.png" group-title="香港",美亞電影台 (粵)
+http://176868.cloud/9356f337cb4f54bd9bed26643f449f16/ce0899ce5196a8e421a6ed74d2ef6d7c/04ad28719e0b06c4d38d79e7fb8ee3db/index.m3u8
+#EXTINF:-1,tvg-id="美亞電影台 (普)" tvg-name="美亞電影台 (普)" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/meiyady.png" group-title="香港",美亞電影台 (普)
+http://176868.cloud/55499c1a01d4c3bdaa25c93cda9cb04e/ce0899ce5196a8e421a6ed74d2ef6d7c/f5ab1f99753902061783621a2703deae/index.m3u8
+
+
 
 
 
@@ -189,24 +194,6 @@ http://176868.cloud/29585c4755ce14adae6e4c44e2d7c149/ce0899ce5196a8e421a6ed74d2e
 
 
  
-
-
-
-
-
-http://176868.cloud/92309b35db5e53f63f2e807c8a6418e8/ce0899ce5196a8e421a6ed74d2ef6d7c/8b02bea1d7234a273e01172822539c04/index.m3u8 #EXTINF:-1 group-title="HK",[myTV SUPER] 86 千禧經典台 
-http://176868.cloud/613545e968f716eec012f3aa38daf64a/ce0899ce5196a8e421a6ed74d2ef6d7c/cbe3faadcb39ba88c4496a73ff9d0fae/index.m3u8 #EXTINF:-1 group-title="HK",[myTV SUPER] 87 亞洲劇台 
-http://176868.cloud/f026882af88d08c3e17fa7c4f69ae268/ce0899ce5196a8e421a6ed74d2ef6d7c/acf7e1a93ede9221048723b104caf040/index.m3u8 #EXTINF:-1 group-title="HK",[myTV SUPER] 89 華語劇台 
-http://176868.cloud/8d71dc29a73e07f3d793adbd22c3a2ec/ce0899ce5196a8e421a6ed74d2ef6d7c/33a0e58112f604fd2cdefcd24f5081ef/index.m3u8 #EXTINF:-1 group-title="HK",[myTV SUPER] 90 黃金翡翠台 
-http://176868.cloud/226f037fbf0560b429bfc96db750ce30/ce0899ce5196a8e421a6ed74d2ef6d7c/fb047fc22f13a7d0cbd8e0b3068c7f64/index.m3u8 #EXTINF:-1 group-title="HK",[myTV SUPER] 91 娛樂新聞台 
-http://176868.cloud/4c334d824921a5fcc9d6786dedd6530a/ce0899ce5196a8e421a6ed74d2ef6d7c/cff71068f54bcc3cebc07bbcef8691ff/index.m3u8 #EXTINF:-1 group-title="HK",[myTV SUPER] 98 戲曲台 
-http://176868.cloud/a4f2d7907a01f947194179cd951b11c2/ce0899ce5196a8e421a6ed74d2ef6d7c/ae3695243e9da60ba7c8b924bee1baa0/index.m3u8 #EXTINF:-1 group-title="HK",[myTV SUPER] 100 兒童台 
-http://176868.cloud/6e0de4eefc944ed114885106d4563300/ce0899ce5196a8e421a6ed74d2ef6d7c/9865484113e9c2b46c9dd8a77e3727f2/index.m3u8 #EXTINF:-1 group-title="HK",[myTV SUPER] 101 ZooMoo 
-http://176868.cloud/9d3afe72f82851e1d6bc71c241a316af/ce0899ce5196a8e421a6ed74d2ef6d7c/25069abc36d60420093df090eb863bc4/index.m3u8 #EXTINF:-1 group-title="HK",[myTV SUPER] 104 Nickelodeon 
-http://176868.cloud/3a70285dc39a57e4ccaa395bd6078433/ce0899ce5196a8e421a6ed74d2ef6d7c/bc10e09575697bbf186fa15b5c6606f0/index.m3u8 #EXTINF:-1 group-title="HK",[myTV SUPER] 105 Nick Jr 
-http://176868.cloud/5b4bcaa96c48303f653739ca764d9f4d/ce0899ce5196a8e421a6ed74d2ef6d7c/7793d23fc1c4c798b8c8a70002f678f2/index.m3u8 #EXTINF:-1 group-title="HK",[myTV SUPER] 200 粵語片台 
-http://176868.cloud/4794cae20a9b4cb2f5cc2bfe8ba37707/ce0899ce5196a8e421a6ed74d2ef6d7c/a911eed2813c2ce8607d4ede446909cf/index.m3u8 #EXTINF:-1 group-title="HK",[myTV SUPER] 201 美亞電影台 (粵) 
-http://176868.cloud/9356f337cb4f54bd9bed26643f449f16/ce0899ce5196a8e421a6ed74d2ef6d7c/04ad28719e0b06c4d38d79e7fb8ee3db/index.m3u8 #EXTINF:-1 group-title="HK",[myTV SUPER] 201 美亞電影台 (普) 
 http://176868.cloud/55499c1a01d4c3bdaa25c93cda9cb04e/ce0899ce5196a8e421a6ed74d2ef6d7c/f5ab1f99753902061783621a2703deae/index.m3u8 #EXTINF:-1 group-title="HK",[myTV SUPER] 202 Thrill 
 http://176868.cloud/ec7c51f17b4dc8358deb36d43654e105/ce0899ce5196a8e421a6ed74d2ef6d7c/b7df1a5c88f39dba8044efea6a27238b/index.m3u8 #EXTINF:-1 group-title="HK",[myTV SUPER] 203 天映經典頻道 
 http://176868.cloud/625b896d540c24e2186ac55c47e195b8/ce0899ce5196a8e421a6ed74d2ef6d7c/cc06ad4b8943e65c8f17e91116f4fe90/index.m3u8 #EXTINF:-1 group-title="HK",[myTV SUPER] 205 ROCK Action 
