@@ -53,7 +53,7 @@ https://hjb.yifeng293.workers.dev/CTVE
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6xnH486jTckGReM/mDsVqw", "kid":"e8oHcbqSBe211GfOL98BYg" } ], "type":"temporary" }
 https://hjb.yifeng293.workers.dev/PCC
 
-#EXTINF:-1 tvg-id="PIN" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Phoenix2.png" group-title="香港",凤凰卫视资讯台
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Phoenix2.png" group-title="香港",凤凰卫视资讯台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7NyAZaRih7+1jp92Xk7sKw", "kid":"g/fTE638CluXi576BCHOJQ" } ], "type":"temporary" }
