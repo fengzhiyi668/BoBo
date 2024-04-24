@@ -219,7 +219,7 @@ http://176868.cloud/50786ec032abb45ec08cd43b447b4c7c/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/d52563d4aa9f8f2d76af750049c7743a/ce0899ce5196a8e421a6ed74d2ef6d7c/b4fe34d0307f7c60ec25bb3aed1788df/index.m3u8
 #EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AXNTV.png" group-title="台湾",AXN
 http://176868.cloud/27a7201f4150714d7f679837206110f3/ce0899ce5196a8e421a6ed74d2ef6d7c/27f0ff9b0c201213b664405e21c1acde/index.m3u8
-#EXTINF:-1,tvg-id="探索頻道" tvg-name="探索頻道" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/TW-discovery.png" group-title="台湾",探索頻道
+#EXTINF:-1,tvg-id="Discovery Channel" tvg-name="探索頻道" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/TW-discovery.png" group-title="台湾",探索頻道
 http://176868.cloud/8c89375ed662adcf87b68d540bc2ae25/ce0899ce5196a8e421a6ed74d2ef6d7c/591be883f658dc834c9d089367332c46/index.m3u8
 #EXTINF:-1,tvg-id="探索頻道 SG" tvg-name="探索頻道 SG" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/Discovery%20sg.png" group-title="台湾",探索頻道 SG
 http://176868.cloud/7722cc75183206ed32d906fd02633323/ce0899ce5196a8e421a6ed74d2ef6d7c/a4f1ae0fa6d6d5845b22072a9baf06d5/index.m3u8
