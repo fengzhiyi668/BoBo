@@ -209,11 +209,11 @@ http://176868.cloud/6afe82413afed5ee33f2598742c6a95a/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/a300d19c5c8e029e52eed1686798acbb/ce0899ce5196a8e421a6ed74d2ef6d7c/aa4b07461e9229c6671661a0269bc078/index.m3u8
 #EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png" group-title="台湾",HBO
 http://176868.cloud/fb3f57e43c8ea43ef7212e7834f9117e/ce0899ce5196a8e421a6ed74d2ef6d7c/8dadaf803ef4262ea03b67edb3bffa7b/index.m3u8
-#EXTINF:-1,tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO2.png" group-title="台湾",HBO Hits
+#EXTINF:-1,tvg-id="HBOHITS" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO2.png" group-title="台湾",HBO Hits
 http://176868.cloud/cfc6c7625834a160ba348a66d049ba14/ce0899ce5196a8e421a6ed74d2ef6d7c/620c7020f97c0a00aba4398427b79075/index.m3u8
-#EXTINF:-1,tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="台湾",HBO Family
+#EXTINF:-1,tvg-id="HBOFAMILY" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="台湾",HBO Family
 http://176868.cloud/aecc7c73761be0072c930f079880b03c/ce0899ce5196a8e421a6ed74d2ef6d7c/0f2f178506cbb0d478d72d6e562eb801/index.m3u8
-#EXTINF:-1,tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO3.png" group-title="台湾",HBO Signature
+#EXTINF:-1,tvg-id="HBOSIGNATURE" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO3.png" group-title="台湾",HBO Signature
 http://176868.cloud/50786ec032abb45ec08cd43b447b4c7c/ce0899ce5196a8e421a6ed74d2ef6d7c/b8bdd6dab9a126dacc2430c596825824/index.m3u8
 #EXTINF:-1,tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Cinemax.png" group-title="台湾",CINEMAX
 http://176868.cloud/d52563d4aa9f8f2d76af750049c7743a/ce0899ce5196a8e421a6ed74d2ef6d7c/b4fe34d0307f7c60ec25bb3aed1788df/index.m3u8
