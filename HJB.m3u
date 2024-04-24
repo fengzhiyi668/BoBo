@@ -17,7 +17,7 @@ https://hjb.yifeng293.workers.dev/JUHD
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"j5emKd5oCvk6ZSwxArZYmA", "kid":"4E+s3ZE1Te7jGMZ0mTt0wQ" } ], "type":"temporary" }
 https://hjb.yifeng293.workers.dev/P
 
-#EXTINF:-1 tvg-id="J2" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB-PLUS.png" group-title="香港",TVB PLUS
+#EXTINF:-1 tvg-id="82" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB-PLUS.png" group-title="香港",TVB PLUS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XZ2OlX0uRdgYmlb+hmWqqg", "kid":"VmA7Zfodc4O27w5zua5p+g" } ], "type":"temporary" }
