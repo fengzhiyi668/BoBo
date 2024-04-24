@@ -99,7 +99,7 @@ http://176868.cloud/003751acc86ea7ee11fb92692881374f/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/625b896d540c24e2186ac55c47e195b8/ce0899ce5196a8e421a6ed74d2ef6d7c/cc06ad4b8943e65c8f17e91116f4fe90/index.m3u8
 #EXTINF:-1,tvg-id="KIX" tvg-name="KIX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/KixTV.png" group-title="香港",KIX
 http://176868.cloud/d6e1d9c665179a8398a3d6056db63983/ce0899ce5196a8e421a6ed74d2ef6d7c/36c0c95ffcf6fe1ca0ee023ca1a279fb/index.m3u8
-#EXTINF:-1,tvg-id="星河台 (粤)" tvg-name="星河台 (粤)" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/xinghe.png" group-title="香港",星河台 (粤)
+#EXTINF:-1,tvg-id="TVBXingHe" tvg-name="星河台 (粤)" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/xinghe.png" group-title="香港",星河台 (粤)
 http://176868.cloud/86b7ef95661f8f4a420d0dd6f0155f0a/ce0899ce5196a8e421a6ed74d2ef6d7c/c6d15aa03ec663cf12cc93fdf94c94a2/index.m3u8
 #EXTINF:-1,tvg-id="TVBXingHe" tvg-name="星河台 (普)" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/xinghe.png" group-title="香港",星河台 (普)
 http://176868.cloud/aaa5420772bd035d2012945d8988159e/ce0899ce5196a8e421a6ed74d2ef6d7c/6368f6ab5df1c64aba501f8046bb6832/index.m3u8
@@ -207,13 +207,13 @@ http://176868.cloud/bcf9f41c998ac5650a8dbfa782cd852f/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/6afe82413afed5ee33f2598742c6a95a/ce0899ce5196a8e421a6ed74d2ef6d7c/47c451e290ed5736f2508bcefa741a83/index.m3u8
 #EXTINF:-1,tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo1.png" group-title="台湾",MOMO親子台
 http://176868.cloud/a300d19c5c8e029e52eed1686798acbb/ce0899ce5196a8e421a6ed74d2ef6d7c/aa4b07461e9229c6671661a0269bc078/index.m3u8
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png" group-title="台湾",HBO
+#EXTINF:-1,tvg-id="HBOAsia" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png" group-title="台湾",HBO
 http://176868.cloud/fb3f57e43c8ea43ef7212e7834f9117e/ce0899ce5196a8e421a6ed74d2ef6d7c/8dadaf803ef4262ea03b67edb3bffa7b/index.m3u8
-#EXTINF:-1,tvg-id="HBOHITS" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO2.png" group-title="台湾",HBO Hits
+#EXTINF:-1,tvg-id="HBOHitsAsia" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO2.png" group-title="台湾",HBO Hits
 http://176868.cloud/cfc6c7625834a160ba348a66d049ba14/ce0899ce5196a8e421a6ed74d2ef6d7c/620c7020f97c0a00aba4398427b79075/index.m3u8
-#EXTINF:-1,tvg-id="HBOFAMILY" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="台湾",HBO Family
+#EXTINF:-1,tvg-id="HBOFamilyAsia" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="台湾",HBO Family
 http://176868.cloud/aecc7c73761be0072c930f079880b03c/ce0899ce5196a8e421a6ed74d2ef6d7c/0f2f178506cbb0d478d72d6e562eb801/index.m3u8
-#EXTINF:-1,tvg-id="HBOSIGNATURE" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO3.png" group-title="台湾",HBO Signature
+#EXTINF:-1,tvg-id="HBOSignatureAsia" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO3.png" group-title="台湾",HBO Signature
 http://176868.cloud/50786ec032abb45ec08cd43b447b4c7c/ce0899ce5196a8e421a6ed74d2ef6d7c/b8bdd6dab9a126dacc2430c596825824/index.m3u8
 #EXTINF:-1,tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Cinemax.png" group-title="台湾",CINEMAX
 http://176868.cloud/d52563d4aa9f8f2d76af750049c7743a/ce0899ce5196a8e421a6ed74d2ef6d7c/b4fe34d0307f7c60ec25bb3aed1788df/index.m3u8
@@ -302,7 +302,7 @@ http://176868.cloud/d85d34e02a2a9835405654dada67a065/ce0899ce5196a8e421a6ed74d2e
 #EXTINF:-1,tvg-id="民视 HD" tvg-name="民视 HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV.png" group-title="台湾",民视 HD
 http://176868.cloud/45d8675defc607190c9fd0a95bdecdbe/ce0899ce5196a8e421a6ed74d2ef6d7c/6fc61513ffd91acbc8a8378631be0b2a/index.m3u8
 
-#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB_Classic_International.png" group-title="东南亚",千禧经典台
+#EXTINF:-1,tvg-id="TVBClassic" tvg-name="千禧经典台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB_Classic_International.png" group-title="东南亚",千禧经典台
 http://176868.cloud/33c029ffa19a04e326e18c71a9e657dd/ce0899ce5196a8e421a6ed74d2ef6d7c/92c4966ade9d7d095045dc9e116813bb/index.m3u8
 #EXTINF:-1,tvg-id="Astro AEC" tvg-name="Astro AEC" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Astro_AEC.png" group-title="东南亚",Astro AEC
 http://176868.cloud/35d0888d121f1a3072e2592417bdad59/ce0899ce5196a8e421a6ed74d2ef6d7c/bc9827fb5defe3cdee7914bc47a87277/index.m3u8
