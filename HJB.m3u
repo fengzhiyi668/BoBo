@@ -95,7 +95,7 @@ http://176868.cloud/9356f337cb4f54bd9bed26643f449f16/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/55499c1a01d4c3bdaa25c93cda9cb04e/ce0899ce5196a8e421a6ed74d2ef6d7c/f5ab1f99753902061783621a2703deae/index.m3u8
 #EXTINF:-1,tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/thrill.png" group-title="香港",Thrill
 http://176868.cloud/003751acc86ea7ee11fb92692881374f/ce0899ce5196a8e421a6ed74d2ef6d7c/f46b206a4500ca19d5d7b067a9b2ced6/index.m3u8
-#EXTINF:-1,tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/ccm.png" group-title="香港",c經典頻道
+#EXTINF:-1,tvg-id="天映经典" tvg-name="天映經典頻道" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/ccm.png" group-title="香港",c經典頻道
 http://176868.cloud/625b896d540c24e2186ac55c47e195b8/ce0899ce5196a8e421a6ed74d2ef6d7c/cc06ad4b8943e65c8f17e91116f4fe90/index.m3u8
 #EXTINF:-1,tvg-id="KIX" tvg-name="KIX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/KixTV.png" group-title="香港",KIX
 http://176868.cloud/d6e1d9c665179a8398a3d6056db63983/ce0899ce5196a8e421a6ed74d2ef6d7c/36c0c95ffcf6fe1ca0ee023ca1a279fb/index.m3u8
@@ -107,7 +107,7 @@ http://176868.cloud/aaa5420772bd035d2012945d8988159e/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/4d1cbca92243153b5e6a99638e6d0cf0/ce0899ce5196a8e421a6ed74d2ef6d7c/a628246e85e687e676476f2361613718/index.m3u8
 #EXTINF:-1,tvg-id="功夫台 (普)" tvg-name="功夫台 (普)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB15.png" group-title="香港",功夫台 (普)
 http://176868.cloud/e03031c6941701e8119893397f5b22d5/ce0899ce5196a8e421a6ed74d2ef6d7c/0ea09b611bf96fd5a43c542a5a7c380c/index.m3u8
-#EXTINF:-1,tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/133%20%E9%9D%96%E6%B4%8B%E6%88%B2%E5%8A%87%E5%8F%B0.png" group-title="香港",靖洋戲劇台
+#EXTINF:-1,tvg-id="靖洋戏剧台" tvg-name="靖洋戲劇台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/133%20%E9%9D%96%E6%B4%8B%E6%88%B2%E5%8A%87%E5%8F%B0.png" group-title="香港",靖洋戲劇台
 http://176868.cloud/48ff2a6f9ebee343f921f3e1aeaf7cfd/ce0899ce5196a8e421a6ed74d2ef6d7c/e841e188a9b7319652c3d37272226068/index.m3u8
 #EXTINF:-1,tvg-id="10954" tvg-name="ViuTVsix" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/ViuTVsix-logo.svg.png" group-title="香港",ViuTVsix
 http://176868.cloud/82e2edd0ce0f90a991353ab08a64efc5/ce0899ce5196a8e421a6ed74d2ef6d7c/55de6627315700ae5a0f9833e7677dff/index.m3u8
