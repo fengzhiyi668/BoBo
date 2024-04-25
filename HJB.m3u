@@ -145,33 +145,33 @@ http://176868.cloud/46c2ec3059a5bd9c4fcb926228d4ad54/ce0899ce5196a8e421a6ed74d2e
 
 #EXTINF:-1,tvg-id="龍祥電影台" tvg-name="龍祥電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="台湾",龍祥電影台
 http://176868.cloud/9e00dca2879f7a423c9f177da08c05ac/ce0899ce5196a8e421a6ed74d2ef6d7c/8bd04ae5cd28d0aa02619bba89ce0967/index.m3u8
-#EXTINF:-1,tvg-id="龍華影劇HD" tvg-name="龍華影劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV3.png" group-title="台湾",龍華影劇台
+#EXTINF:-1,tvg-id="301119" tvg-name="龍華影劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV3.png" group-title="台湾",龍華影劇台
 http://176868.cloud/9d8737d36751571a133a851bd7227559/ce0899ce5196a8e421a6ed74d2ef6d7c/e0750af4089065afb7e0bce3852ab6d4/index.m3u8
 #EXTINF:-1,tvg-id="龙华日韩台" tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV5.png" group-title="台湾",龍華日韓台
 http://176868.cloud/f78a600e002b2786c71352309ea5ea41/ce0899ce5196a8e421a6ed74d2ef6d7c/f70482ea86c730b5f2f004e69f0433a8/index.m3u8
-#EXTINF:-1,tvg-id="龍華偶像HD" tvg-name="龍華偶像台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV6.png" group-title="台湾",龍華偶像台
+#EXTINF:-1,tvg-id="301124" tvg-name="龍華偶像台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV6.png" group-title="台湾",龍華偶像台
 http://176868.cloud/cd44d1f711c80e5f0814bc2cb59be9ff/ce0899ce5196a8e421a6ed74d2ef6d7c/923c1f09b8c69ce6ba2eaf098a1ead71/index.m3u8
-#EXTINF:-1,tvg-id="龍華電影HD" tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="台湾",龍華電影台
+#EXTINF:-1,tvg-id="301109" tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="台湾",龍華電影台
 http://176868.cloud/b897e220238e13d0e42e8ba78a95f7a4/ce0899ce5196a8e421a6ed74d2ef6d7c/8a2e44154796c412be54ee5f3c4bd80f/index.m3u8
-#EXTINF:-1,tvg-id="龍華戲劇HD" tvg-name="龍華戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV4.png" group-title="台湾",龍華戲劇台
+#EXTINF:-1,tvg-id="301217" tvg-name="龍華戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV4.png" group-title="台湾",龍華戲劇台
 http://176868.cloud/3ec339871adcae744690b7c4961223c5/ce0899ce5196a8e421a6ed74d2ef6d7c/d032951999a61cd19e820bf3c174be6c/index.m3u8
-#EXTINF:-1,tvg-id="龍華經典HD" tvg-name="龍華經典台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV7.png" group-title="台湾",龍華經典台
+#EXTINF:-1,tvg-id="301165" tvg-name="龍華經典台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV7.png" group-title="台湾",龍華經典台
 http://176868.cloud/19bd029276c684b31a69663ec3b9a461/ce0899ce5196a8e421a6ed74d2ef6d7c/f9c559a85da709b2e5a3918ce31c8300/index.m3u8
-#EXTINF:-1,tvg-id="龍華洋片HD" tvg-name="龍華洋片台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV2.png" group-title="台湾",龍華洋片台
+#EXTINF:-1,tvg-id="301417" tvg-name="龍華洋片台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV2.png" group-title="台湾",龍華洋片台
 http://176868.cloud/b8f64c4ad0d31764c1ee5b2936c28da7/ce0899ce5196a8e421a6ed74d2ef6d7c/c19f6bd83b6adbcd3433d2cf3bdeced9/index.m3u8
-#EXTINF:-1,tvg-id="龍華動畫HD" tvg-name="龍華卡通台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV8.png" group-title="台湾",龍華卡通台
+#EXTINF:-1,tvg-id="301026" tvg-name="龍華卡通台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV8.png" group-title="台湾",龍華卡通台
 http://176868.cloud/14979937076e8423963489aad30c1711/ce0899ce5196a8e421a6ed74d2ef6d7c/08a9cbad2e14057cd257a64abcf875a5/index.m3u8
-#EXTINF:-1,tvg-id="東森幼幼台" tvg-name="東森幼幼" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC10.png" group-title="台湾",東森幼幼
+#EXTINF:-1,tvg-id="271829" tvg-name="東森幼幼" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC10.png" group-title="台湾",東森幼幼
 http://176868.cloud/5e94c5f3875a05d7561d2646ad247ce1/ce0899ce5196a8e421a6ed74d2ef6d7c/6cea9898c79a851cc13c84b2dacb3d6a/index.m3u8
-#EXTINF:-1,tvg-id="東森綜合台" tvg-name="東森綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC1.png" group-title="台湾",東森綜合台
+#EXTINF:-1,tvg-id="272025" tvg-name="東森綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC1.png" group-title="台湾",東森綜合台
 http://176868.cloud/5bc13edf02130e4c2c7c3262546559c7/ce0899ce5196a8e421a6ed74d2ef6d7c/7f8e77c3c97a24aac8242cda3093fa92/index.m3u8
-#EXTINF:-1,tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC5.png" group-title="台湾",東森戲劇台
+#EXTINF:-1,tvg-id="271817" tvg-name="東森戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC5.png" group-title="台湾",東森戲劇台
 http://176868.cloud/695589673f01e9fa24423128acb2c0a0/ce0899ce5196a8e421a6ed74d2ef6d7c/314cf0271b6803995f893931d9030bed/index.m3u8
-#EXTINF:-1,tvg-id="東森超視台" tvg-name="東森超視台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="台湾",東森超視台
+#EXTINF:-1,tvg-id="272089" tvg-name="東森超視台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="台湾",東森超視台
 http://176868.cloud/fe3dd98f8c0257dee41e96725e74e357/ce0899ce5196a8e421a6ed74d2ef6d7c/95a67e23363d75169db60873961b3a22/index.m3u8
-#EXTINF:-1,tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC3.png" group-title="台湾",東森電影台
+#EXTINF:-1,tvg-id="271993" tvg-name="東森電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC3.png" group-title="台湾",東森電影台
 http://176868.cloud/b2308f7e7e441a91da22b6f1ddd7fe1e/ce0899ce5196a8e421a6ed74d2ef6d7c/bed363000ef3b4e3e9c14eef99f13a88/index.m3u8
-#EXTINF:-1,tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC4.png" group-title="台湾",東森洋片台
+#EXTINF:-1,tvg-id="272024" tvg-name="東森洋片台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC4.png" group-title="台湾",東森洋片台
 http://176868.cloud/4c3855a6b7617b3bc9ea2d7f71f36564/ce0899ce5196a8e421a6ed74d2ef6d7c/12447736998bd775f346418a79b7af81/index.m3u8
 #EXTINF:-1,tvg-id="八大綜合台" tvg-name="八大綜合台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88.png" group-title="台湾",八大綜合台
 http://176868.cloud/361cb46c201c5e29a959e972e8530ecc/ce0899ce5196a8e421a6ed74d2ef6d7c/b377b9057edded88791ae220d0b106f0/index.m3u8
@@ -334,7 +334,7 @@ http://www.hkyuancheng.lol:3546/youtube/oZdzzvxTfUY
 http://www.hkyuancheng.lol:3546/youtube/xL0ch83RAK8
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global2.png" group-title="新闻",寰宇新闻
 http://www.hkyuancheng.lol:3546/youtube/6IquAgfvYmc
-#EXTINF:-1,tvg-id="東森新闻" tvg-name="東森新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" group-title="新闻",東森新闻
+#EXTINF:-1,tvg-id="271820" tvg-name="東森新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" group-title="新闻",東森新闻
 http://www.hkyuancheng.lol:3546/youtube/LTxN73clLEg
 #EXTINF:-1,tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="新闻",TVBS新闻
 http://www.hkyuancheng.lol:3546/youtube/m_dhMSvUCIc
