@@ -410,7 +410,7 @@ http://www.hkyuancheng.lol:1991/udp/239.253.64.129:5140
 http://www.hkyuancheng.lol:1991/udp/239.253.64.208:5140
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/guonei/Guangdong.png" group-title="卫视",广东卫视
 http://www.hkyuancheng.lol:1991/udp/239.253.64.200:5140
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="卫视",广东珠江
+#EXTINF:-1,tvg-id="珠江" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="卫视",广东珠江
 http://176868.cloud/aaaa423062eaa6607724e3a546ba347a/ce0899ce5196a8e421a6ed74d2ef6d7c/7388ddfddd312b443c5bb8273a763871/index.m3u8
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/guonei/Hebei.png" group-title="卫视",河北卫视
 http://www.hkyuancheng.lol:1991/udp/239.253.64.210:5140
