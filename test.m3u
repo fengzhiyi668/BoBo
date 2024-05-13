@@ -18,4 +18,4 @@ http://www.hkyc.xyz:5050/4gtv/202
 #EXTINF:-1,tvg-id="6024" tvg-name="精選動漫台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/%E7%B2%BE%E9%81%B8%E5%8B%95%E6%BC%AB%E5%8F%B0.png" group-title="台湾",精選動漫台
 http://www.hkyc.xyz:5050/4gtv/204
 #EXTINF:-1,tvg-id="6024" tvg-name="影迷數位紀實台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E7%B4%80%E5%AF%A6%E5%8F%B0.png" group-title="台湾",影迷數位紀實台
-http://www.hkyc.xyz:5050/4gtv/212
+http://192.168.5.1/4gtv/212
