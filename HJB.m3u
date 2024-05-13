@@ -144,13 +144,13 @@ http://176868.cloud/9e00dca2879f7a423c9f177da08c05ac/ce0899ce5196a8e421a6ed74d2e
 #EXTINF:-1,tvg-id="7131" tvg-name="龍華影劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV3.png" group-title="台湾",龍華影劇台
 http://176868.cloud/9d8737d36751571a133a851bd7227559/ce0899ce5196a8e421a6ed74d2ef6d7c/e0750af4089065afb7e0bce3852ab6d4/index.m3u8
 #EXTINF:-1,tvg-id="7158" tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV5.png" group-title="台湾",龍華日韓台
-http://176868.cloud/f78a600e002b2786c71352309ea5ea41/ce0899ce5196a8e421a6ed74d2ef6d7c/f70482ea86c730b5f2f004e69f0433a8/index.m3u8
+http://www.hkyc.xyz:5050/4gtv/28
 #EXTINF:-1,tvg-id="7126" tvg-name="龍華偶像台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV6.png" group-title="台湾",龍華偶像台
 http://176868.cloud/cd44d1f711c80e5f0814bc2cb59be9ff/ce0899ce5196a8e421a6ed74d2ef6d7c/923c1f09b8c69ce6ba2eaf098a1ead71/index.m3u8
 #EXTINF:-1,tvg-id="7128" tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="台湾",龍華電影台
 http://176868.cloud/9120fb87e51fb12e241b44f09c023d2d/ce0899ce5196a8e421a6ed74d2ef6d7c/7ed911d78f32930055bb4518fc613d8b/index.m3u8
 #EXTINF:-1,tvg-id="7127" tvg-name="龍華戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV4.png" group-title="台湾",龍華戲劇台
-http://176868.cloud/3ec339871adcae744690b7c4961223c5/ce0899ce5196a8e421a6ed74d2ef6d7c/d032951999a61cd19e820bf3c174be6c/index.m3u8
+http://www.hkyc.xyz:5050/4gtv/23
 #EXTINF:-1,tvg-id="7130" tvg-name="龍華經典台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV7.png" group-title="台湾",龍華經典台
 http://176868.cloud/19bd029276c684b31a69663ec3b9a461/ce0899ce5196a8e421a6ed74d2ef6d7c/f9c559a85da709b2e5a3918ce31c8300/index.m3u8
 #EXTINF:-1,tvg-id="7132" tvg-name="龍華洋片台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV2.png" group-title="台湾",龍華洋片台
@@ -234,7 +234,7 @@ http://176868.cloud/9f4b351c35c24d253b0cac22ab364d63/ce0899ce5196a8e421a6ed74d2e
 #EXTINF:-1,tvg-id="愛爾達日韓台" tvg-name="愛爾達日韓台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/%5BTW-I%5D%20121%20%E6%84%9B%E7%88%BE%E9%81%94%E6%97%A5%E9%9F%93%E5%8F%B0.png" group-title="台湾",愛爾達日韓台
 http://176868.cloud/8bb9815d4ca33adfd8903ed376e98225/ce0899ce5196a8e421a6ed74d2ef6d7c/7dd320260e5bf686b80c13bd4238c763/index.m3u8
 #EXTINF:-1,tvg-id="7139" tvg-name="愛爾達娛樂台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/%5BTW-II%5D%20044%20%E6%84%9B%E7%88%BE%E9%81%94%E5%A8%9B%E6%A8%82%E5%8F%B0.png" group-title="台湾",愛爾達娛樂台
-http://176868.cloud/30b5714de1803ec0e13dfc0fefd1ad61/ce0899ce5196a8e421a6ed74d2ef6d7c/45b64c6846462df5b3c53f273c3e27f6/index.m3u8
+http://www.hkyc.xyz:5050/4gtv/19
 #EXTINF:-1,tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA10.PNG" group-title="台湾",愛爾達生活旅遊台
 http://176868.cloud/c944d3b693acda1e37011afe87e935f4/ce0899ce5196a8e421a6ed74d2ef6d7c/07f3f830aa818b7ec98db3dff5190d6b/index.m3u8
 #EXTINF:-1,tvg-id="愛爾達體育MAX1台" tvg-name="愛爾達體育MAX1台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTA-MAX1.png" group-title="台湾",愛爾達體育MAX1台
@@ -286,7 +286,7 @@ http://176868.cloud/6fa70fbf717aaf53f0badf32228a0670/ce0899ce5196a8e421a6ed74d2e
 #EXTINF:-1,tvg-id="301053" tvg-name="靖洋卡通台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/nice%20bingo.png" group-title="台湾",靖洋卡通台
 http://176868.cloud/be5bee07e959e8cfe2d38f3df257473b/ce0899ce5196a8e421a6ed74d2ef6d7c/1e7ab418b3a6e1e64e9a864e5bed8460/index.m3u8
 #EXTINF:-1,tvg-id="301328" tvg-name="靖天卡通台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV7.png" group-title="台湾",靖天卡通台  
-http://176868.cloud/8e3e94b53bc0ce9f5572ee5ec8e01d47/ce0899ce5196a8e421a6ed74d2ef6d7c/079838044d27b00c90d71e465ecbf709/index.m3u8
+http://www.hkyc.xyz:5050/4gtv/15
 #EXTINF:-1,tvg-id="301297" tvg-name="MTV Live HD" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/MTV_Live_2021_logo.svg.png" group-title="台湾",MTV Live HD 
 http://176868.cloud/75fbae705687369843a94abf45805ab8/ce0899ce5196a8e421a6ed74d2ef6d7c/5695b1369f8cc6ea39b9149a7b170876/index.m3u8
 #EXTINF:-1,tvg-id="315459" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/ln-logo_peacock_4k.png" group-title="台湾",Love Nature
@@ -323,21 +323,21 @@ http://www.hkyc.xyz:3546/youtube/HFib76ySpbU
 #EXTINF:-1,tvg-id="無線財經·體育·資訊台" tvg-name="無線財經·體育·資訊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB5.png" group-title="新闻",無線財經·體育·資訊台
 ##http://www.hkyuancheng.lol:5679/tvb.php?id=2&hq
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="新闻",中天新闻
-http://www.hkyc.xyz:3546/youtube/oIgbl7t0S_w
+http://www.hkyc.xyz:5050/4gtv/30
 #EXTINF:-1,tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" group-title="新闻",三立新闻
 http://www.hkyc.xyz:3546/youtube/oZdzzvxTfUY
 #EXTINF:-1,tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png" group-title="新闻",台视新闻
 http://www.hkyc.xyz:3546/youtube/xL0ch83RAK8
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global2.png" group-title="新闻",寰宇新闻
-http://www.hkyc.xyz:3546/youtube/6IquAgfvYmc
+http://www.hkyc.xyz:5050/4gtv/36
 #EXTINF:-1,tvg-id="271820" tvg-name="東森新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" group-title="新闻",東森新闻
 http://www.hkyc.xyz:3546/youtube/LTxN73clLEg
 #EXTINF:-1,tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="新闻",TVBS新闻
 http://www.hkyc.xyz:3546/youtube/m_dhMSvUCIc
 #EXTINF:-1,tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV1.png" group-title="新闻",民视新闻
-http://www.hkyc.xyz:3546/youtube/ylYJSBUgaMA
+http://www.hkyc.xyz:5050/4gtv/31
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV1.png" group-title="新闻",中视新闻
-http://www.hkyc.xyz:3546/youtube/TCnaIE_SAtM
+http://www.hkyc.xyz:5050/4gtv/33
 #EXTINF:-1,tvg-id="東森財經" tvg-name="東森財經" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC7.png" group-title="新闻",東森財經
 http://www.hkyc.xyz:3546/youtube/WHEPzbFA3hw
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/local/Hainan.png" group-title="地方台",海南卫视
