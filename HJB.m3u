@@ -174,8 +174,8 @@ http://176868.cloud/d920c18cd63530de79d62ea064d0a106/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/b1783f6c3ee2910040b225077f5e0c35/ce0899ce5196a8e421a6ed74d2ef6d7c/206a64db121d01da6a9982c5e30012bd/index.m3u8
 #EXTINF:-1,tvg-id="6038" tvg-name="TLC旅遊生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TLCTV.png" group-title="台湾",TLC旅遊生活
 http://176868.cloud/79a12959751788a3ad587482af8fc319/ce0899ce5196a8e421a6ed74d2ef6d7c/831ccae7ebca870636a2f888b3148b22/index.m3u8
-#EXTINF:-1,tvg-id="301064" tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Animax.png" group-title="台湾",ANIMAX
-http://176868.cloud/6afe82413afed5ee33f2598742c6a95a/ce0899ce5196a8e421a6ed74d2ef6d7c/47c451e290ed5736f2508bcefa741a83/index.m3u8
+#EXTINF:-1,tvg-id="10989" tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Animax.png" group-title="台湾",ANIMAX
+http://176868.cloud/1fb2767cb79e73a643f3541e2602572a/ce0899ce5196a8e421a6ed74d2ef6d7c/dd3c0e16452f810399353cae75fb6a0b/index.m3u8
 #EXTINF:-1,tvg-id="6042" tvg-name="MOMO親子台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo1.png" group-title="台湾",MOMO親子台
 http://176868.cloud/34c792dd3d671e92b617fea21a8e622a/ce0899ce5196a8e421a6ed74d2ef6d7c/623c3788911339fbc3642efd7015a001/index.m3u8
 #EXTINF:-1,tvg-id="HBOAsia" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png" group-title="台湾",HBO
@@ -368,11 +368,11 @@ http://176868.cloud/848669e5e7debbea42045a60893d951b/ce0899ce5196a8e421a6ed74d2e
 http://176868.cloud/68e77d08551278710982c8639e6427d2/ce0899ce5196a8e421a6ed74d2ef6d7c/37ddc138995be7b1d5fea4c284ee06f5/index.m3u8
 
 
-#EXTINF:-1,tvg-id="Sports 4K-1" tvg-name="[NowTV] Sports 4K-1" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/now%20sports/%5BNowTV%5D%20611%20Sports%204K-1.png" group-title="Now Sports",[NowTV] 611 Sports 4K-1
+#EXTINF:-1,tvg-id="11109" tvg-name="[NowTV] Sports 4K-1" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/now%20sports/%5BNowTV%5D%20611%20Sports%204K-1.png" group-title="Now Sports",[NowTV] 611 Sports 4K-1
 http://176868.cloud/010fa7f6efd300ccfe823e968b76b01b/ce0899ce5196a8e421a6ed74d2ef6d7c/86fb0e7d6444795a3a05a2ac13e9de12/index.m3u8
-#EXTINF:-1,tvg-id="Sports 4K-2" tvg-name="[NowTV] Sports 4K-2" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/now%20sports/%5BNowTV%5D%20612%20Sports%204K-2.png" group-title="Now Sports",[NowTV] 612 Sports 4K-2
+#EXTINF:-1,tvg-id="11111" tvg-name="[NowTV] Sports 4K-2" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/now%20sports/%5BNowTV%5D%20612%20Sports%204K-2.png" group-title="Now Sports",[NowTV] 612 Sports 4K-2
 http://176868.cloud/c169f97ee3af113f13f9b54cfe6ef4dd/ce0899ce5196a8e421a6ed74d2ef6d7c/816869a92c2f6a85bdbfc694e925bead/index.m3u8
-#EXTINF:-1,tvg-id="Sports 4K-3" tvg-name="[NowTV] Sports 4K-3" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/now%20sports/%5BNowTV%5D%20613%20Sports%204K-3.png" group-title="Now Sports",[NowTV] 613 Sports 4K-3
+#EXTINF:-1,tvg-id="11112" tvg-name="[NowTV] Sports 4K-3" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/now%20sports/%5BNowTV%5D%20613%20Sports%204K-3.png" group-title="Now Sports",[NowTV] 613 Sports 4K-3
 http://176868.cloud/0a1366380abcb7e5728c45dc1a0d5b04/ce0899ce5196a8e421a6ed74d2ef6d7c/3c722cb059f9928c194b504d4391fd20/index.m3u8
 #EXTINF:-1,tvg-id="[NowTV] 621 Sports 英超1台" tvg-name="[NowTV] 621 Sports 英超1台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/now%20sports/%5BNowTV%5D%20621%20Sports%20%E8%8B%B1%E8%B6%851%E5%8F%B0(a).png" group-title="Now Sports",[NowTV] 621 Sports 英超1台
 http://176868.cloud/fd693e3a9f7a14317803718bc9f84b35/ce0899ce5196a8e421a6ed74d2ef6d7c/59c2a7b65f2a3b915bd4d32b70c1973e/index.m3u8
