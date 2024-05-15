@@ -67,7 +67,7 @@ http://www.hkyc.xyz:5050/4gtv/57
 http://www.hkyc.xyz:5050/4gtv/58
 #EXTINF:-1,tvg-id="靖洋卡通 Nice Bingo" tvg-name="靖洋卡通 Nice Bingo" tvg-logo="https://epg.112114.xyz/logo/靖洋卡通NICEBINGO.png" group-title="其他",靖洋卡通 Nice Bingo
 http://www.hkyc.xyz:5050/4gtv/59
-#EXTINF:-1,tvg-id="i-Fun 動漫台" tvg-name="i-Fun 動漫台" tvg-logo="https://epg.112114.xyz/logo/IFUN動漫台.png" group-title="其他",i-Fun 動漫台
+#EXTINF:-1,tvg-id="i-Fun 動漫台" tvg-name="i-Fun 動漫台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ifun1.png" group-title="其他",i-Fun 動漫台
 http://www.hkyc.xyz:5050/4gtv/60
 #EXTINF:-1,tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://epg.112114.xyz/logo/民視旅遊台.png" group-title="其他",民視旅遊台
 http://www.hkyc.xyz:5050/4gtv/61
