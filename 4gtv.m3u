@@ -153,7 +153,7 @@ http://www.hkyc.xyz:5050/4gtv/183
 http://www.hkyc.xyz:5050/4gtv/184
 #EXTINF:-1,tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://epg.112114.xyz/logo/尼克兒童頻道.png" group-title="其他",尼克兒童頻道
 http://www.hkyc.xyz:5050/4gtv/185
-#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="其他",HITS 頻道
+#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HITS.pn" group-title="其他",HITS 頻道
 http://www.hkyc.xyz:5050/4gtv/186
 #EXTINF:-1,tvg-id="LiveABC 互動英語頻道" tvg-name="LiveABC 互動英語頻道" tvg-logo="https://epg.112114.xyz/logo/LIVEABC互動英語頻道.png" group-title="其他",LiveABC 互動英語頻道
 http://www.hkyc.xyz:5050/4gtv/188
