@@ -1,29 +1,4 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="龍祥電影台" tvg-name="龍祥電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="台湾",龍祥電影台
-
-#EXTINF:-1,tvg-id="6024" tvg-name="視納華仁紀實頻道" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/135%20%E8%A6%96%E7%B4%8D%E8%8F%AF%E4%BB%81%E7%B4%80%E5%AF%A6%E9%A0%BB%E9%81%93.png" group-title="台湾",視納華仁紀實頻道
-http://www.hkyc.xyz:5050/4gtv/38
-#EXTINF:-1,tvg-id="6024" tvg-name="amc 電影台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/%5BTW-I%5D%20110%20amc%E6%9C%80%E6%84%9B%E9%9B%BB%E5%BD%B1.png" group-title="台湾",amc 電影台
-http://www.hkyc.xyz:5050/4gtv/39
-#EXTINF:-1,tvg-id="6024" tvg-name="影迷數位電影台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E9%9B%BB%E5%BD%B1%E5%8F%B0.png" group-title="台湾",影迷數位電影台
-http://www.hkyc.xyz:5050/4gtv/40
-#EXTINF:-1,tvg-id="6024" tvg-name="時尚運動 X" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/106%20%E6%99%82%E5%B0%9A%E9%81%8B%E5%8B%95X.png" group-title="台湾",時尚運動 X
-http://www.hkyc.xyz:5050/4gtv/69
-#EXTINF:-1,tvg-id="6024" tvg-name="CI 罪案偵查頻道" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/CI%20%E7%BD%AA%E6%A1%88%E5%81%B5%E6%9F%A5%E9%A0%BB%E9%81%93.png" group-title="台湾",CI 罪案偵查頻道
-http://www.hkyc.xyz:5050/4gtv/215
-#EXTINF:-1,tvg-id="6024" tvg-name="ELTV 生活英語台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/ELTV%E7%94%9F%E6%B4%BB%E8%8B%B1%E8%AA%9E%E5%8F%B0.png" group-title="台湾",ELTV 生活英語台
-http://www.hkyc.xyz:5050/4gtv/106
-#EXTINF:-1,tvg-id="6024" tvg-name="經典卡通台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/%E7%B6%93%E5%85%B8%E5%8D%A1%E9%80%9A%E5%8F%B0.png" group-title="台湾",經典卡通台
-http://www.hkyc.xyz:5050/4gtv/202
-#EXTINF:-1,tvg-id="6024" tvg-name="精選動漫台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/%E7%B2%BE%E9%81%B8%E5%8B%95%E6%BC%AB%E5%8F%B0.png" group-title="台湾",精選動漫台
-http://www.hkyc.xyz:5050/4gtv/204
-#EXTINF:-1,tvg-id="6024" tvg-name="影迷數位紀實台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/TW/%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E7%B4%80%E5%AF%A6%E5%8F%B0.png" group-title="台湾",影迷數位紀實台
-http://192.168.5.1:5000/4gtv/212
-
-
-
-
-#EXTM3U
 #EXTINF:-1,tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://epg.112114.xyz/logo/民視第一台.png" group-title="其他",民視第一台
 http://www.hkyc.xyz:5050/4gtv/1
 #EXTINF:-1,tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://epg.112114.xyz/logo/民視台灣台.png" group-title="其他",民視台灣台
