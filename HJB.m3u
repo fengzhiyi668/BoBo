@@ -495,6 +495,8 @@ http://www.hkyc.xyz:1991/udp/239.253.64.251:5140
 http://www.hkyc.xyz:1991/udp/239.253.64.126:5140
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://www.hkyc.xyz:1991/udp/239.253.64.67:5140
+#EXTINF:-1,tvg-id="CCCTV4K" tvg-name="CCTV 4K" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV4K.png" group-title="央视",CCTV 4K
+http://www.hkyc.xyz:1991/udp/239.253.64.67:5140
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/guonei/Dongfang.png" group-title="卫视",东方卫视
 http://www.hkyc.xyz:1991/udp/239.253.64.201:5140
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/guonei/hunan.png" group-title="卫视",湖南卫视
