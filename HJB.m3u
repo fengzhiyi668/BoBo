@@ -497,7 +497,7 @@ http://www.hkyc.xyz:1991/udp/239.253.64.126:5140
 http://www.hkyc.xyz:1991/udp/239.253.64.67:5140
 
 #EXTINF:-1,tvg-id="CCCTV4K" tvg-name="CCTV-4K" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV4K.png" group-title="央视",CCTV-4K
-http://www.hkyc.xyz:6060/tptv/G_CCTV-4K-HD?type=proxy
+http://www.hkyc.xyz:6060/ysp/cctv4k
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1-4K" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV1.png" group-title="央视",CCTV1-4K
 http://www.hkyc.xyz:6060/tptv/G_CCTV-1-AVS-4K264?type=proxy
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3-4K" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV3.png" group-title="央视",CCTV3-4K
