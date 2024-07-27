@@ -1,5 +1,5 @@
 #EXTM3U
-x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
 #EXTINF:-1 tvg-id="J" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB1.png" group-title="香港",翡翠台
 http://176868.cloud/39f47e6ec12005406b942ef7750509f9/ce0899ce5196a8e421a6ed74d2ef6d7c/2a0662e68f86ab2a586dd1247dc52b0a/index.m3u8
 
