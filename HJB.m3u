@@ -532,16 +532,20 @@ http://www.hkyc.xyz:6060/tptv/G_TAIQIU-CQ?type=proxy
 #http://www.hkyc.xyz:6060/ysp/cctv-gaoerfuwangqiu
 http://www.hkyc.xyz:6060/tptv/G_CCTV-GOLF-CQ?type=proxy
 #EXTINF:-1 tvg-id="CCTV-女性时尚" tvg-name="CCTV 女性时尚" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVnxss.png" group-title="央视", CCTV 女性时尚
-http://www.hkyc.xyz:6060/ysp/cctv-nvxingshishang
+#http://www.hkyc.xyz:6060/ysp/cctv-nvxingshishang
+http://www.hkyc.xyz:6060/tptv/G_NVXINGSS-CQ?type=proxy
 #EXTINF:-1 tvg-id="CCTV-电视指南" tvg-name="CCTV 电视指南" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVdszn.png" group-title="央视", CCTV 电视指南
-http://www.hkyc.xyz:6060/ysp/cctv-dianshizhinan
+#http://www.hkyc.xyz:6060/ysp/cctv-dianshizhinan
+http://www.hkyc.xyz:6060/tptv/G_DIANSHIZN-CQ?type=proxy
 #EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-name="CCTV 第一剧场" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVdyjc.png" group-title="央视", CCTV 第一剧场
-http://www.hkyc.xyz:6060/ysp/cctv-diyijuchang
+#http://www.hkyc.xyz:6060/ysp/cctv-diyijuchang
+http://www.hkyc.xyz:6060/tptv/G_DIYIJC-CQ?type=proxy
 #EXTINF:-1 tvg-id="CCTV-怀旧剧场" tvg-name="CCTV 怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVhjjc.png" group-title="央视", CCTV 怀旧剧场
-http://www.hkyc.xyz:6060/ysp/cctv-huaijiujuchang
+#http://www.hkyc.xyz:6060/ysp/cctv-huaijiujuchang
+http://www.hkyc.xyz:6060/tptv/G_HUAIJIUJC-CQ?type=proxy
 #EXTINF:-1 tvg-id="CCTV-央视文化精品" tvg-name="CCTV 央视文化精品" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVyswhjp.png" group-title="央视", CCTV 央视文化精品
-http://www.hkyc.xyz:6060/ysp/cctv-wenhuajingpin
-
+#http://www.hkyc.xyz:6060/ysp/cctv-wenhuajingpin
+http://www.hkyc.xyz:6060/tptv/G_CCTV-WENHUA-CQ?type=proxy
 
 
 
