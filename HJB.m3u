@@ -500,15 +500,15 @@ http://www.hkyc.xyz:1991/udp/239.253.64.67:5140
 #EXTINF:-1,tvg-id="CCCTV4K" tvg-name="CCTV-4K" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV4K.png" group-title="央视",CCTV-4K
 http://www.hkyc.xyz:6060/ysp/cctv4k
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1-4K" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV1.png" group-title="央视",CCTV1-4K
-http://www.hkyc.xyz:6060/tptv/G_CCTV-1-AVS-4K264?type=proxy
+#http://www.hkyc.xyz:6060/tptv/G_CCTV-1-AVS-4K264?type=proxy
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3-4K" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV3.png" group-title="央视",CCTV3-4K
-http://www.hkyc.xyz:6060/tptv/G_CCTV-3-AVS-4K264?type=proxy
+#http://www.hkyc.xyz:6060/tptv/G_CCTV-3-AVS-4K264?type=proxy
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5-4K" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV5.png" group-title="央视",CCTV5-4K
-http://www.hkyc.xyz:6060/tptv/G_CCTV-5-AVS-4K264?type=proxy
+#http://www.hkyc.xyz:6060/tptv/G_CCTV-5-AVS-4K264?type=proxy
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6-4K" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV6.png" group-title="央视",CCTV6-4K
-http://www.hkyc.xyz:6060/tptv/G_CCTV-6-AVS-4K264?type=proxy
+#http://www.hkyc.xyz:6060/tptv/G_CCTV-6-AVS-4K264?type=proxy
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8-4K" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV8.png" group-title="央视",CCTV8-4K
-http://www.hkyc.xyz:6060/tptv/G_CCTV-8-AVS-4K264?type=proxy
+#http://www.hkyc.xyz:6060/tptv/G_CCTV-8-AVS-4K264?type=proxy
 
 #EXTINF:-1 tvg-id="CCTV-世界地理" tvg-name="CCTV 世界地理" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVsjdl.png" group-title="央视", CCTV 世界地理
 http://www.hkyc.xyz:6060/ysp/cctv-shijiedili
