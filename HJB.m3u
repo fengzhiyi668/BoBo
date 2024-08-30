@@ -510,42 +510,6 @@ http://www.hkyc.xyz:6060/ysp/cctv4k
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8-4K" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV8.png" group-title="央视",CCTV8-4K
 #http://www.hkyc.xyz:6060/tptv/G_CCTV-8-AVS-4K264?type=proxy
 
-#EXTINF:-1 tvg-id="CCTV-世界地理" tvg-name="CCTV 世界地理" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVsjdl.png" group-title="央视", CCTV 世界地理
-http://www.hkyc.xyz:6060/ysp/cctv-shijiedili
-#http://www.hkyc.xyz:6060/tptv/G_SHIJIEDL-CQ?type=proxy
-#EXTINF:-1 tvg-id="CCTV-风云剧场" tvg-name="CCTV 风云剧场" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVfyjc.png" group-title="央视", CCTV 风云剧场
-http://www.hkyc.xyz:6060/ysp/cctv-fengyunjuchang
-#http://www.hkyc.xyz:6060/tptv/G_FENGYUNJC-CQ?type=proxy
-#EXTINF:-1 tvg-id="CCTV-风云足球" tvg-name="CCTV 风云足球" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVfyzq.png" group-title="央视", CCTV 风云足球
-http://www.hkyc.xyz:6060/ysp/cctv-fengyunzuqiu
-#http://www.hkyc.xyz:6060/tptv/G_FENGSHANGZQ-CQ?type=proxy
-#EXTINF:-1 tvg-id="CCTV-风云音乐" tvg-name="CCTV 风云音乐" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVfyyy.png" group-title="央视", CCTV 风云音乐
-http://www.hkyc.xyz:6060/ysp/cctv-fengyunyinyue
-#http://www.hkyc.xyz:6060/tptv/G_FENGYUNYY-CQ?type=proxy
-#EXTINF:-1 tvg-id="CCTV-兵器科技" tvg-name="CCTV 兵器科技" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVbqkj.png" group-title="央视", CCTV 兵器科技
-http://www.hkyc.xyz:6060/ysp/cctv-bingqikeji
-#http://www.hkyc.xyz:6060/tptv/G_BINGQIKJ-CQ?type=proxy
-#EXTINF:-1 tvg-id="CCTV-央视台球" tvg-name="CCTV 央视台球" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVystq.png" group-title="央视", CCTV 央视台球
-http://www.hkyc.xyz:6060/ysp/cctv-yangshitaiqiu
-#http://www.hkyc.xyz:6060/tptv/G_TAIQIU-CQ?type=proxy
-#EXTINF:-1 tvg-id="CCTV-高尔夫网球" tvg-name="CCTV 高尔夫网球" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVgefwq.png" group-title="央视", CCTV 高尔夫网球
-http://www.hkyc.xyz:6060/ysp/cctv-gaoerfuwangqiu
-#http://www.hkyc.xyz:6060/tptv/G_CCTV-GOLF-CQ?type=proxy
-#EXTINF:-1 tvg-id="CCTV-女性时尚" tvg-name="CCTV 女性时尚" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVnxss.png" group-title="央视", CCTV 女性时尚
-http://www.hkyc.xyz:6060/ysp/cctv-nvxingshishang
-#http://www.hkyc.xyz:6060/tptv/G_NVXINGSS-CQ?type=proxy
-#EXTINF:-1 tvg-id="CCTV-电视指南" tvg-name="CCTV 电视指南" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVdszn.png" group-title="央视", CCTV 电视指南
-http://www.hkyc.xyz:6060/ysp/cctv-dianshizhinan
-#http://www.hkyc.xyz:6060/tptv/G_DIANSHIZN-CQ?type=proxy
-#EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-name="CCTV 第一剧场" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVdyjc.png" group-title="央视", CCTV 第一剧场
-http://www.hkyc.xyz:6060/ysp/cctv-diyijuchang
-#http://www.hkyc.xyz:6060/tptv/G_DIYIJC-CQ?type=proxy
-#EXTINF:-1 tvg-id="CCTV-怀旧剧场" tvg-name="CCTV 怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVhjjc.png" group-title="央视", CCTV 怀旧剧场
-http://www.hkyc.xyz:6060/ysp/cctv-huaijiujuchang
-#http://www.hkyc.xyz:6060/tptv/G_HUAIJIUJC-CQ?type=proxy
-#EXTINF:-1 tvg-id="CCTV-央视文化精品" tvg-name="CCTV 央视文化精品" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTVyswhjp.png" group-title="央视", CCTV 央视文化精品
-http://www.hkyc.xyz:6060/ysp/cctv-wenhuajingpin
-#http://www.hkyc.xyz:6060/tptv/G_CCTV-WENHUA-CQ?type=proxy
 
 
 
