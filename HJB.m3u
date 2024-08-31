@@ -559,7 +559,7 @@ http://www.hkyc.xyz:1991/udp/239.253.64.56:5140
 
 #EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/guonei/Qiusuodw.png" group-title="其他", 求索动物
 http://www.hkyc.xyz:6060/itv/wasusyt/6000000002000010046
-#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="hhttps://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/guonei/Qiusuojl.png" group-title="其他", 求索纪录
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/guonei/Qiusuojl.png" group-title="其他", 求索纪录
 http://www.hkyc.xyz:6060/itv/wasusyt/6000000002000032052
 #EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/guonei/Qiusuokx.png" group-title="其他", 求索科学
 http://www.hkyc.xyz:6060/itv/wasusyt/6000000002000032344
