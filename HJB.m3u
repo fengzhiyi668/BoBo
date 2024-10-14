@@ -506,9 +506,9 @@ http://www.hkyc.xyz:3546/tptv/G_CCTV-3-AVS-4K264.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5-4K" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV5.png" group-title="央视",CCTV5-4K
 http://www.hkyc.xyz:3546/tptv/G_CCTV-5-AVS-4K264.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6-4K" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV6.png" group-title="央视",CCTV6-4K
-#http://www.hkyc.xyz:6060/tptv/G_CCTV-6-AVS-4K264?type=proxy
+http://www.hkyc.xyz:6060/tptv/G_CCTV-6-AVS-4K264?type=proxy
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8-4K" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV8.png" group-title="央视",CCTV8-4K
-#http://www.hkyc.xyz:6060/tptv/G_CCTV-8-AVS-4K264?type=proxy
+http://www.hkyc.xyz:6060/tptv/G_CCTV-8-AVS-4K264?type=proxy
 
 
 
